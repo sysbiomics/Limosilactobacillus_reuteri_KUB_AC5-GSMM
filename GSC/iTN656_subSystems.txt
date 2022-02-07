@@ -1,0 +1,862 @@
+gene set	gene
+Alanine metabolism	AC5u0009GL000096
+Alanine metabolism	AC5u0009GL000374
+Alanine, aspartate and glutamate metabolism	AC5u0009GL000057
+Alanine, aspartate and glutamate metabolism	AC5u0009GL000367
+Alanine, aspartate and glutamate metabolism	AC5u0009GL000400
+Alanine, aspartate and glutamate metabolism	AC5u0009GL000452
+Alanine, aspartate and glutamate metabolism	AC5u0009GL000573
+Alanine, aspartate and glutamate metabolism	AC5u0009GL000606
+Alanine, aspartate and glutamate metabolism	AC5u0009GL000716
+Alanine, aspartate and glutamate metabolism	AC5u0009GL000780
+Alanine, aspartate and glutamate metabolism	AC5u0009GL000988
+Alanine, aspartate and glutamate metabolism	AC5u0009GL001182
+Alanine, aspartate and glutamate metabolism	AC5u0009GL001183
+Alanine, aspartate and glutamate metabolism	AC5u0009GL001497
+Alanine, aspartate and glutamate metabolism	AC5u0009GL001521
+Alanine, aspartate and glutamate metabolism	AC5u0009GL001529
+Alanine, aspartate and glutamate metabolism	AC5u0009GL001530
+Alanine, aspartate and glutamate metabolism	AC5u0009GL000688
+Alanine, aspartate and glutamate metabolism	AC5u0009GL000689
+Alanine, aspartate and glutamate metabolism 	AC5u0009GL000465
+Amino sugar and nucleotide sugar metabolism	AC5u0009GL000584
+Amino sugar and nucleotide sugar metabolism	AC5u0009GL000746
+Amino sugar and nucleotide sugar metabolism	AC5u0009GL000772
+Amino sugar and nucleotide sugar metabolism	AC5u0009GL000987
+Amino sugar and nucleotide sugar metabolism	AC5u0009GL001165
+Amino sugar and nucleotide sugar metabolism	AC5u0009GL001275
+Aminoacyl-tRNA biosynthesis	AC5u0009GL000056
+Aminoacyl-tRNA biosynthesis	AC5u0009GL000073
+Aminoacyl-tRNA biosynthesis	AC5u0009GL000074
+Aminoacyl-tRNA biosynthesis	AC5u0009GL000166
+Aminoacyl-tRNA biosynthesis	AC5u0009GL000194
+Aminoacyl-tRNA biosynthesis	AC5u0009GL000329
+Aminoacyl-tRNA biosynthesis	AC5u0009GL000330
+Aminoacyl-tRNA biosynthesis	AC5u0009GL000331
+Aminoacyl-tRNA biosynthesis	AC5u0009GL000390
+Aminoacyl-tRNA biosynthesis	AC5u0009GL000429
+Aminoacyl-tRNA biosynthesis	AC5u0009GL000453
+Aminoacyl-tRNA biosynthesis	AC5u0009GL000594
+Aminoacyl-tRNA biosynthesis	AC5u0009GL000601
+Aminoacyl-tRNA biosynthesis	AC5u0009GL000651
+Aminoacyl-tRNA biosynthesis	AC5u0009GL000681
+Aminoacyl-tRNA biosynthesis	AC5u0009GL000736
+Aminoacyl-tRNA biosynthesis	AC5u0009GL000827
+Aminoacyl-tRNA biosynthesis	AC5u0009GL000842
+Aminoacyl-tRNA biosynthesis	AC5u0009GL000886
+Aminoacyl-tRNA biosynthesis	AC5u0009GL001047
+Aminoacyl-tRNA biosynthesis	AC5u0009GL001073
+Aminoacyl-tRNA biosynthesis	AC5u0009GL001088
+Aminoacyl-tRNA biosynthesis	AC5u0009GL001193
+Aminoacyl-tRNA biosynthesis	AC5u0009GL001342
+Aminoacyl-tRNA biosynthesis	AC5u0009GL001594
+Aminoacyl-tRNA biosynthesis	AC5u0009GL001595
+Aminoacyl-tRNA biosynthesis	AC5u0009GL001710
+Aminoacyl-tRNA biosynthesis	AC5u0009GL002113
+Aminoacyl-tRNA biosynthesis	AC5u0009GL002145
+Aminobenzoate degradation	AC5u0009GL002089
+Aminobenzoate degradation	AC5u0009GL000581
+Aminobenzoate degradation	AC5u0009GL001752
+Aminobenzoate degradation	AC5u0009GL000621
+Aminobenzoate degradation	AC5u0009GL000639
+Aminobenzoate degradation	AC5u0009GL002157
+Aminobenzoate degradation	AC5u0009GL002175
+Arginine and proline metabolism	AC5u0009GL000776
+Arginine biosynthesis	AC5u0009GL000127
+Arginine biosynthesis	AC5u0009GL000143
+Arginine biosynthesis	AC5u0009GL000144
+Arginine biosynthesis	AC5u0009GL000606
+Arginine biosynthesis	AC5u0009GL000615
+Arginine biosynthesis	AC5u0009GL000799
+Arginine biosynthesis	AC5u0009GL001603
+Arginine biosynthesis	AC5u0009GL001604
+Arginine biosynthesis	AC5u0009GL001879
+Benzoate degradation	AC5u0009GL000883
+Benzoate degradation	AC5u0009GL001477
+Biotin metabolism	AC5u0009GL001601
+Butanoate metabolism	AC5u0009GL000322
+Butanoate metabolism	AC5u0009GL000793
+Butanoate metabolism	AC5u0009GL000906
+Butanoate metabolism	AC5u0009GL000907
+Butanoate metabolism	AC5u0009GL001661
+Cysteine and methionine metabolism	AC5u0009GL000080
+Cysteine and methionine metabolism	AC5u0009GL000401
+Cysteine and methionine metabolism	AC5u0009GL000437
+Cysteine and methionine metabolism	AC5u0009GL000439
+Cysteine and methionine metabolism	AC5u0009GL000726
+Cysteine and methionine metabolism	AC5u0009GL000780
+Cysteine and methionine metabolism	AC5u0009GL001046
+Cysteine and methionine metabolism	AC5u0009GL001346
+Cysteine and methionine metabolism	AC5u0009GL001373
+Cysteine and methionine metabolism	AC5u0009GL001392
+Cysteine and methionine metabolism	AC5u0009GL001444
+Cysteine and methionine metabolism	AC5u0009GL001491
+Cysteine and methionine metabolism	AC5u0009GL002042
+Cysteine and methionine metabolism	AC5u0009GL002043
+Cysteine and methionine metabolism	AC5u0009GL001171
+Cysteine and methionine metabolism	AC5u0009GL000051
+Cysteine and methionine metabolism	AC5u0009GL000248
+Cysteine and methionine metabolism	AC5u0009GL000913
+Energy metabolism	AC5u0009GL000770
+Fatty acid metabolism	AC5u0009GL000221
+Fatty acid metabolism	AC5u0009GL000225
+Fatty acid metabolism	AC5u0009GL000227
+Fatty acid metabolism	AC5u0009GL000228
+Fatty acid metabolism	AC5u0009GL000229
+Fatty acid metabolism	AC5u0009GL000231
+Fatty acid metabolism	AC5u0009GL000233
+Fatty acid metabolism	AC5u0009GL000768
+Fatty acid metabolism	AC5u0009GL000910
+Fatty acid metabolism	AC5u0009GL000944
+Fatty acid metabolism	AC5u0009GL001030
+Fatty acid metabolism	AC5u0009GL001661
+Fatty acid metabolism	AC5u0009GL000698
+Fatty acid metabolism	AC5u0009GL002179
+Folate biosynthesis	AC5u0009GL000674
+Folate biosynthesis	AC5u0009GL000848
+Folate biosynthesis	AC5u0009GL000849
+Folate biosynthesis	AC5u0009GL000964
+Folate biosynthesis	AC5u0009GL001062
+Folate biosynthesis	AC5u0009GL001063
+Folate biosynthesis	AC5u0009GL001064
+Folate biosynthesis	AC5u0009GL001065
+Folate biosynthesis	AC5u0009GL001066
+Folate biosynthesis	AC5u0009GL001067
+Folate biosynthesis	AC5u0009GL001481
+Folate biosynthesis	AC5u0009GL001566
+Folate biosynthesis	AC5u0009GL002122
+Folate biosynthesis	AC5u0009GL000642
+Folate biosynthesis	AC5u0009GL002154
+Folate biosynthesis	AC5u0009GL000847
+Folate biosynthesis	AC5u0009GL001068
+Folate biosynthesis	AC5u0009GL002025
+Folate biosynthesis	AC5u0009GL000251
+Folate biosynthesis	AC5u0009GL000253
+Folate biosynthesis	AC5u0009GL000262
+Folate biosynthesis	AC5u0009GL001950
+Folate biosynthesis	AC5u0009GL001952
+Folate biosynthesis	AC5u0009GL000692
+Fructose and mannose metabolism	AC5u0009GL000802
+Fructose and mannose metabolism	AC5u0009GL001852
+Fructose and mannose metabolism	AC5u0009GL002062
+Fructose and mannose metabolism	AC5u0009GL002089
+Fructose and mannose metabolism	AC5u0009GL002012
+Fructose and mannose metabolism	AC5u0009GL000581
+Fructose and mannose metabolism	AC5u0009GL001746
+Fructose and mannose metabolism	AC5u0009GL001752
+Fructose and mannose metabolism	AC5u0009GL000639
+Fructose and mannose metabolism	AC5u0009GL002157
+Galactose metabolism	AC5u0009GL000722
+Galactose metabolism	AC5u0009GL000772
+Galactose metabolism	AC5u0009GL000794
+Galactose metabolism	AC5u0009GL000933
+Galactose metabolism	AC5u0009GL001430
+Galactose metabolism	AC5u0009GL001744
+Galactose metabolism	AC5u0009GL002027
+Galactose metabolism	AC5u0009GL002028
+Galactose metabolism	AC5u0009GL002089
+Galactose metabolism	AC5u0009GL000581
+Galactose metabolism	AC5u0009GL000721
+Galactose metabolism	AC5u0009GL001150
+Galactose metabolism	AC5u0009GL001448
+Galactose metabolism	AC5u0009GL001797
+Galactose metabolism 	AC5u0009GL001427
+Galactose metabolism 	AC5u0009GL001456
+Glutamine and glutamate metabolism	AC5u0009GL000643
+Glutamine and glutamate metabolism	AC5u0009GL002153
+Glutathione metabolism	AC5u0009GL000401
+Glutathione metabolism	AC5u0009GL000277
+Glycerolipid metabolism	AC5u0009GL000205
+Glycerolipid metabolism	AC5u0009GL000332
+Glycerolipid metabolism	AC5u0009GL000399
+Glycerolipid metabolism	AC5u0009GL000754
+Glycerolipid metabolism	AC5u0009GL000790
+Glycerolipid metabolism	AC5u0009GL000931
+Glycerolipid metabolism	AC5u0009GL001144
+Glycerolipid metabolism	AC5u0009GL001145
+Glycerolipid metabolism	AC5u0009GL001224
+Glycerolipid metabolism	AC5u0009GL001365
+Glycerolipid metabolism	AC5u0009GL001478
+Glycerolipid metabolism	AC5u0009GL001480
+Glycerolipid metabolism	AC5u0009GL001481
+Glycerolipid metabolism	AC5u0009GL001517
+Glycerolipid metabolism	AC5u0009GL001598
+Glycerolipid metabolism	AC5u0009GL001922
+Glycerolipid metabolism	AC5u0009GL001923
+Glycerolipid metabolism	AC5u0009GL001924
+Glycerolipid metabolism	AC5u0009GL001925
+Glycerolipid metabolism	AC5u0009GL001926
+Glycerolipid metabolism	AC5u0009GL000013
+Glycerolipid metabolism	AC5u0009GL001555
+Glycerolipid metabolism	AC5u0009GL000621
+Glycerolipid metabolism	AC5u0009GL000639
+Glycerolipid metabolism	AC5u0009GL002157
+Glycerolipid metabolism	AC5u0009GL002175
+Glycerophospholipid metabolism	AC5u0009GL000196
+Glycerophospholipid metabolism	AC5u0009GL000398
+Glycerophospholipid metabolism	AC5u0009GL000663
+Glycerophospholipid metabolism	AC5u0009GL000793
+Glycerophospholipid metabolism	AC5u0009GL000931
+Glycerophospholipid metabolism	AC5u0009GL002133
+Glycine, serine and threonine metabolism	AC5u0009GL000116
+Glycine, serine and threonine metabolism	AC5u0009GL001355
+Glycine, serine and threonine metabolism	AC5u0009GL001357
+Glycine, serine and threonine metabolism	AC5u0009GL001362
+Glycine, serine and threonine metabolism	AC5u0009GL001444
+Glycine, serine and threonine metabolism	AC5u0009GL001471
+Glycine, serine and threonine metabolism	AC5u0009GL001472
+Glycine, serine and threonine metabolism	AC5u0009GL001480
+Glycine, serine and threonine metabolism	AC5u0009GL002043
+Glycine, serine and threonine metabolism	AC5u0009GL000902
+Glycine, serine and threonine metabolism	AC5u0009GL000901
+Glycine, serine and threonine metabolism	AC5u0009GL000903
+Glycine, serine and threonine metabolism	AC5u0009GL001259
+Glycolysis / Gluconeogenesis	AC5u0009GL000061
+Glycolysis / Gluconeogenesis	AC5u0009GL000149
+Glycolysis / Gluconeogenesis	AC5u0009GL000359
+Glycolysis / Gluconeogenesis	AC5u0009GL000360
+Glycolysis / Gluconeogenesis	AC5u0009GL000361
+Glycolysis / Gluconeogenesis	AC5u0009GL000724
+Glycolysis / Gluconeogenesis	AC5u0009GL000802
+Glycolysis / Gluconeogenesis	AC5u0009GL000888
+Glycolysis / Gluconeogenesis	AC5u0009GL000936
+Glycolysis / Gluconeogenesis	AC5u0009GL000959
+Glycolysis / Gluconeogenesis	AC5u0009GL000964
+Glycolysis / Gluconeogenesis	AC5u0009GL000982
+Glycolysis / Gluconeogenesis	AC5u0009GL001030
+Glycolysis / Gluconeogenesis	AC5u0009GL001057
+Glycolysis / Gluconeogenesis	AC5u0009GL001350
+Glycolysis / Gluconeogenesis	AC5u0009GL001374
+Glycolysis / Gluconeogenesis	AC5u0009GL001375
+Glycolysis / Gluconeogenesis	AC5u0009GL001376
+Glycolysis / Gluconeogenesis	AC5u0009GL001377
+Glycolysis / Gluconeogenesis	AC5u0009GL001481
+Glycolysis / Gluconeogenesis	AC5u0009GL001483
+Glycolysis / Gluconeogenesis	AC5u0009GL001585
+Glycolysis / Gluconeogenesis	AC5u0009GL001869
+Glycolysis / Gluconeogenesis	AC5u0009GL001870
+Glycolysis / Gluconeogenesis	AC5u0009GL001871
+Glycolysis / Gluconeogenesis	AC5u0009GL001872
+Glycolysis / Gluconeogenesis	AC5u0009GL001908
+Glycolysis / Gluconeogenesis	AC5u0009GL002089
+Glycolysis / Gluconeogenesis	AC5u0009GL000357
+Glycolysis / Gluconeogenesis	AC5u0009GL002025
+Glycolysis / Gluconeogenesis	AC5u0009GL001752
+Glycolysis / Gluconeogenesis	AC5u0009GL000150
+Glycolysis / Gluconeogenesis	AC5u0009GL000472
+Glycolysis / Gluconeogenesis	AC5u0009GL000639
+Glycolysis / Gluconeogenesis	AC5u0009GL001180
+Glycolysis / Gluconeogenesis	AC5u0009GL002157
+Glyoxylate and dicarboxylate metabolism	AC5u0009GL002089
+Glyoxylate and dicarboxylate metabolism	AC5u0009GL000698
+Glyoxylate and dicarboxylate metabolism	AC5u0009GL000699
+Histidine metabolism	AC5u0009GL000423
+Inositol phosphate metabolism	AC5u0009GL000398
+Inositol phosphate metabolism	AC5u0009GL001052
+Inositol phosphate metabolism	AC5u0009GL001955
+Inositol phosphate metabolism	AC5u0009GL001379
+Lipoic acid metabolism	AC5u0009GL001162
+Lipoic acid metabolism	AC5u0009GL001200
+Lysine biosynthesis	AC5u0009GL000055
+Lysine biosynthesis	AC5u0009GL000419
+Lysine biosynthesis	AC5u0009GL000615
+Lysine biosynthesis	AC5u0009GL000799
+Lysine biosynthesis	AC5u0009GL001169
+Lysine biosynthesis	AC5u0009GL001354
+Lysine biosynthesis	AC5u0009GL001356
+Lysine biosynthesis	AC5u0009GL001357
+Lysine biosynthesis	AC5u0009GL001358
+Lysine biosynthesis	AC5u0009GL001359
+Lysine biosynthesis	AC5u0009GL001360
+Lysine biosynthesis	AC5u0009GL001361
+Lysine biosynthesis	AC5u0009GL001591
+Lysine biosynthesis	AC5u0009GL001051
+Lysine biosynthesis	AC5u0009GL001436
+Nicotinate and Nicotinamide metabolism	AC5u0009GL000090
+Nicotinate and Nicotinamide metabolism	AC5u0009GL000346
+Nicotinate and Nicotinamide metabolism	AC5u0009GL000675
+Nicotinate and Nicotinamide metabolism	AC5u0009GL001904
+Nicotinate and Nicotinamide metabolism	AC5u0009GL000327
+Nicotinate and Nicotinamide metabolism	AC5u0009GL001552
+Nicotinate and Nicotinamide metabolism	AC5u0009GL001630
+Nicotinate and Nicotinamide metabolism	AC5u0009GL002057
+Nicotinate and nicotinamide metabolism	AC5u0009GL000090
+Nicotinate and nicotinamide metabolism	AC5u0009GL000345
+Nicotinate and nicotinamide metabolism	AC5u0009GL000346
+Nicotinate and nicotinamide metabolism	AC5u0009GL000718
+Nicotinate and nicotinamide metabolism	AC5u0009GL000719
+Nicotinate and nicotinamide metabolism	AC5u0009GL000798
+Nicotinate and nicotinamide metabolism	AC5u0009GL000835
+Nicotinate and nicotinamide metabolism	AC5u0009GL001080
+Nicotinate and nicotinamide metabolism	AC5u0009GL001278
+Nicotinate and nicotinamide metabolism	AC5u0009GL001474
+Nicotinate and nicotinamide metabolism	AC5u0009GL001505
+Nicotinate and nicotinamide metabolism	AC5u0009GL001810
+Nicotinate and nicotinamide metabolism	AC5u0009GL000662
+Nicotinate and nicotinamide metabolism	AC5u0009GL002134
+Nitrogen metabolism	AC5u0009GL000143
+Nitrogen metabolism	AC5u0009GL000245
+Nitrogen metabolism	AC5u0009GL000246
+Nitrogen metabolism	AC5u0009GL000247
+Nitrogen metabolism	AC5u0009GL000248
+One carbon pool by folate	AC5u0009GL000018
+One carbon pool by folate	AC5u0009GL000024
+One carbon pool by folate	AC5u0009GL000036
+One carbon pool by folate	AC5u0009GL000674
+One carbon pool by folate	AC5u0009GL000849
+One carbon pool by folate	AC5u0009GL000908
+One carbon pool by folate	AC5u0009GL001065
+One carbon pool by folate	AC5u0009GL001066
+One carbon pool by folate	AC5u0009GL002122
+One carbon pool by folate	AC5u0009GL000065
+Pantothenate and CoA biosynthesis	AC5u0009GL000026
+Pantothenate and CoA biosynthesis	AC5u0009GL000373
+Pantothenate and CoA biosynthesis	AC5u0009GL000435
+Pantothenate and CoA biosynthesis	AC5u0009GL000781
+Pantothenate and CoA biosynthesis	AC5u0009GL000820
+Pantothenate and CoA biosynthesis	AC5u0009GL000965
+Pantothenate and CoA biosynthesis	AC5u0009GL001095
+Pantothenate and CoA biosynthesis	AC5u0009GL001384
+Pentose and glucuronate interconversions	AC5u0009GL000399
+Pentose and glucuronate interconversions	AC5u0009GL000463
+Pentose and glucuronate interconversions	AC5u0009GL001365
+Pentose and glucuronate interconversions	AC5u0009GL002037
+Pentose and glucuronate interconversions	AC5u0009GL000462
+Pentose phosphate pathway	AC5u0009GL000019
+Pentose phosphate pathway	AC5u0009GL000399
+Pentose phosphate pathway	AC5u0009GL000557
+Pentose phosphate pathway	AC5u0009GL000731
+Pentose phosphate pathway	AC5u0009GL000923
+Pentose phosphate pathway	AC5u0009GL000982
+Pentose phosphate pathway	AC5u0009GL001057
+Pentose phosphate pathway	AC5u0009GL001322
+Pentose phosphate pathway	AC5u0009GL001507
+Pentose phosphate pathway	AC5u0009GL001508
+Pentose phosphate pathway	AC5u0009GL001543
+Pentose phosphate pathway	AC5u0009GL001624
+Pentose phosphate pathway	AC5u0009GL001789
+Pentose phosphate pathway	AC5u0009GL001859
+Pentose phosphate pathway	AC5u0009GL002016
+Pentose phosphate pathway	AC5u0009GL002017
+Peptidoglycan biosynthesis	AC5u0009GL000102
+Peptidoglycan biosynthesis	AC5u0009GL000121
+Peptidoglycan biosynthesis	AC5u0009GL000352
+Peptidoglycan biosynthesis	AC5u0009GL000365
+Peptidoglycan biosynthesis	AC5u0009GL000826
+Peptidoglycan biosynthesis	AC5u0009GL000841
+Peptidoglycan biosynthesis	AC5u0009GL000981
+Peptidoglycan biosynthesis	AC5u0009GL001074
+Peptidoglycan biosynthesis	AC5u0009GL001089
+Peptidoglycan biosynthesis	AC5u0009GL001331
+Peptidoglycan biosynthesis	AC5u0009GL001332
+Peptidoglycan biosynthesis	AC5u0009GL001333
+Peptidoglycan biosynthesis	AC5u0009GL001334
+Peptidoglycan biosynthesis	AC5u0009GL001598
+Peptidoglycan biosynthesis	AC5u0009GL001732
+Peptidoglycan biosynthesis	AC5u0009GL000275
+Peptidoglycan biosynthesis	AC5u0009GL001962
+Peptidoglycan biosynthesis	AC5u0009GL000574
+Phenylalanine metabolism	AC5u0009GL000055
+Phenylalanine metabolism	AC5u0009GL000419
+Phenylalanine metabolism	AC5u0009GL000780
+Phenylalanine metabolism	AC5u0009GL001122
+Phenylalanine metabolism	AC5u0009GL001361
+Phenylalanine metabolism	AC5u0009GL001591
+Phenylalanine metabolism	AC5u0009GL001902
+Phenylalanine metabolism	AC5u0009GL002010
+Phenylalanine, tyrosine and tryptophan biosynthesis	AC5u0009GL000055
+Phenylalanine, tyrosine and tryptophan biosynthesis	AC5u0009GL000419
+Phenylalanine, tyrosine and tryptophan biosynthesis	AC5u0009GL000942
+Phenylalanine, tyrosine and tryptophan biosynthesis	AC5u0009GL001361
+Phenylalanine, tyrosine and tryptophan biosynthesis	AC5u0009GL001591
+Phenylalanine, tyrosine and tryptophan biosynthesis	AC5u0009GL001956
+Polyketide sugar unit biosynthesis	AC5u0009GL001414
+Polyketide sugar unit biosynthesis	AC5u0009GL001415
+Polyketide sugar unit biosynthesis	AC5u0009GL001424
+Polyketide sugar unit biosynthesis	AC5u0009GL001417
+Polyketide sugar unit biosynthesis	AC5u0009GL001416
+Porphyrin and chlorophyll metabolism	AC5u0009GL001301
+Porphyrin and chlorophyll metabolism	AC5u0009GL001480
+Porphyrin and chlorophyll metabolism	AC5u0009GL001874
+Porphyrin and chlorophyll metabolism	AC5u0009GL001875
+Porphyrin and chlorophyll metabolism	AC5u0009GL001876
+Porphyrin and chlorophyll metabolism	AC5u0009GL001878
+Porphyrin and chlorophyll metabolism	AC5u0009GL001879
+Porphyrin and chlorophyll metabolism	AC5u0009GL001880
+Porphyrin and chlorophyll metabolism	AC5u0009GL001881
+Porphyrin and chlorophyll metabolism	AC5u0009GL001882
+Porphyrin and chlorophyll metabolism	AC5u0009GL001883
+Porphyrin and chlorophyll metabolism	AC5u0009GL001889
+Porphyrin and chlorophyll metabolism	AC5u0009GL001890
+Porphyrin and chlorophyll metabolism	AC5u0009GL001891
+Porphyrin and chlorophyll metabolism	AC5u0009GL001892
+Porphyrin and chlorophyll metabolism	AC5u0009GL001893
+Porphyrin and chlorophyll metabolism	AC5u0009GL001894
+Porphyrin and chlorophyll metabolism	AC5u0009GL001895
+Porphyrin and chlorophyll metabolism	AC5u0009GL001898
+Porphyrin and chlorophyll metabolism	AC5u0009GL001900
+Porphyrin and chlorophyll metabolism	AC5u0009GL001901
+Porphyrin and chlorophyll metabolism	AC5u0009GL001902
+Porphyrin and chlorophyll metabolism	AC5u0009GL001903
+Porphyrin and chlorophyll metabolism	AC5u0009GL001915
+Porphyrin and chlorophyll metabolism	AC5u0009GL001877
+Porphyrin and chlorophyll metabolism	AC5u0009GL001884
+Porphyrin and chlorophyll metabolism	AC5u0009GL001896
+Porphyrin and chlorophyll metabolism	AC5u0009GL001897
+Porphyrin and chlorophyll metabolism	AC5u0009GL001899
+Porphyrin and chlorophyll metabolism	AC5u0009GL001900
+Porphyrin and chlorophyll metabolism	AC5u0009GL001904
+Proline metabolism	AC5u0009GL000606
+Proline metabolism	AC5u0009GL000776
+Proline metabolism	AC5u0009GL000777
+Proline metabolism	AC5u0009GL000778
+Proline metabolism	AC5u0009GL001520
+Propanoate metabolism	AC5u0009GL000976
+Propanoate metabolism	AC5u0009GL001480
+Propanoate metabolism	AC5u0009GL001517
+Propanoate metabolism	AC5u0009GL001912
+Propanoate metabolism	AC5u0009GL001913
+Propanoate metabolism	AC5u0009GL001918
+Propanoate metabolism	AC5u0009GL001923
+Propanoate metabolism	AC5u0009GL001924
+Propanoate metabolism	AC5u0009GL001925
+Purine metabolism	AC5u0009GL000028
+Purine metabolism	AC5u0009GL000169
+Purine metabolism	AC5u0009GL000309
+Purine metabolism	AC5u0009GL000324
+Purine metabolism	AC5u0009GL000325
+Purine metabolism	AC5u0009GL000386
+Purine metabolism	AC5u0009GL000395
+Purine metabolism	AC5u0009GL000405
+Purine metabolism	AC5u0009GL000459
+Purine metabolism	AC5u0009GL000583
+Purine metabolism	AC5u0009GL000603
+Purine metabolism	AC5u0009GL000645
+Purine metabolism	AC5u0009GL000755
+Purine metabolism	AC5u0009GL000756
+Purine metabolism	AC5u0009GL000758
+Purine metabolism	AC5u0009GL000795
+Purine metabolism	AC5u0009GL000796
+Purine metabolism	AC5u0009GL000797
+Purine metabolism	AC5u0009GL000828
+Purine metabolism	AC5u0009GL000848
+Purine metabolism	AC5u0009GL000889
+Purine metabolism	AC5u0009GL000890
+Purine metabolism	AC5u0009GL000891
+Purine metabolism	AC5u0009GL000893
+Purine metabolism	AC5u0009GL000894
+Purine metabolism	AC5u0009GL000895
+Purine metabolism	AC5u0009GL000897
+Purine metabolism	AC5u0009GL000898
+Purine metabolism	AC5u0009GL000899
+Purine metabolism	AC5u0009GL000900
+Purine metabolism	AC5u0009GL000967
+Purine metabolism	AC5u0009GL001026
+Purine metabolism	AC5u0009GL001054
+Purine metabolism	AC5u0009GL001067
+Purine metabolism	AC5u0009GL001087
+Purine metabolism	AC5u0009GL001221
+Purine metabolism	AC5u0009GL001278
+Purine metabolism	AC5u0009GL001344
+Purine metabolism	AC5u0009GL001353
+Purine metabolism	AC5u0009GL001465
+Purine metabolism	AC5u0009GL001491
+Purine metabolism	AC5u0009GL001505
+Purine metabolism	AC5u0009GL001662
+Purine metabolism	AC5u0009GL001728
+Purine metabolism	AC5u0009GL001778
+Purine metabolism	AC5u0009GL001811
+Purine metabolism	AC5u0009GL001821
+Purine metabolism	AC5u0009GL001940
+Purine metabolism	AC5u0009GL002084
+Purine metabolism	AC5u0009GL002151
+Purine metabolism	AC5u0009GL001379
+Purine metabolism	AC5u0009GL000642
+Purine metabolism	AC5u0009GL002154
+Purine metabolism	AC5u0009GL000251
+Purine metabolism	AC5u0009GL000948
+Purine metabolism	AC5u0009GL001161
+Purine metabolism	AC5u0009GL001503
+Purine metabolism	AC5u0009GL001905
+Purine metabolism 	AC5u0009GL001505
+Pyrimidine metabolism	AC5u0009GL000071
+Pyrimidine metabolism	AC5u0009GL000115
+Pyrimidine metabolism	AC5u0009GL000120
+Pyrimidine metabolism	AC5u0009GL000169
+Pyrimidine metabolism	AC5u0009GL000186
+Pyrimidine metabolism	AC5u0009GL000319
+Pyrimidine metabolism	AC5u0009GL000367
+Pyrimidine metabolism	AC5u0009GL000571
+Pyrimidine metabolism	AC5u0009GL000603
+Pyrimidine metabolism	AC5u0009GL000645
+Pyrimidine metabolism	AC5u0009GL000733
+Pyrimidine metabolism	AC5u0009GL000755
+Pyrimidine metabolism	AC5u0009GL000756
+Pyrimidine metabolism	AC5u0009GL000758
+Pyrimidine metabolism	AC5u0009GL000763
+Pyrimidine metabolism	AC5u0009GL000828
+Pyrimidine metabolism	AC5u0009GL001026
+Pyrimidine metabolism	AC5u0009GL001033
+Pyrimidine metabolism	AC5u0009GL001034
+Pyrimidine metabolism	AC5u0009GL001087
+Pyrimidine metabolism	AC5u0009GL001243
+Pyrimidine metabolism	AC5u0009GL001278
+Pyrimidine metabolism	AC5u0009GL001387
+Pyrimidine metabolism	AC5u0009GL001489
+Pyrimidine metabolism	AC5u0009GL001491
+Pyrimidine metabolism	AC5u0009GL001493
+Pyrimidine metabolism	AC5u0009GL001494
+Pyrimidine metabolism	AC5u0009GL001495
+Pyrimidine metabolism	AC5u0009GL001496
+Pyrimidine metabolism	AC5u0009GL001505
+Pyrimidine metabolism	AC5u0009GL001506
+Pyrimidine metabolism	AC5u0009GL001528
+Pyrimidine metabolism	AC5u0009GL001567
+Pyrimidine metabolism	AC5u0009GL001574
+Pyrimidine metabolism	AC5u0009GL001662
+Pyrimidine metabolism	AC5u0009GL001728
+Pyrimidine metabolism	AC5u0009GL001778
+Pyrimidine metabolism	AC5u0009GL001809
+Pyrimidine metabolism	AC5u0009GL001940
+Pyrimidine metabolism	AC5u0009GL002151
+Pyrimidine metabolism	AC5u0009GL000199
+Pyrimidine metabolism	AC5u0009GL000847
+Pyrimidine metabolism	AC5u0009GL001068
+Pyrimidine metabolism	AC5u0009GL000351
+Pyrimidine metabolism	AC5u0009GL000377
+Pyrimidine metabolism	AC5u0009GL000253
+Pyrimidine metabolism	AC5u0009GL000858
+Pyrimidine metabolism	AC5u0009GL000093
+Pyrimidine metabolism	AC5u0009GL000252
+Pyrimidine metabolism	AC5u0009GL000376
+Pyrimidine metabolism	AC5u0009GL000690
+Pyrimidine metabolism	AC5u0009GL000691
+Pyrimidine metabolism	AC5u0009GL001259
+Pyruvate metabolism	AC5u0009GL000175
+Pyruvate metabolism	AC5u0009GL000177
+Pyruvate metabolism	AC5u0009GL000202
+Pyruvate metabolism	AC5u0009GL000222
+Pyruvate metabolism	AC5u0009GL000223
+Pyruvate metabolism	AC5u0009GL000224
+Pyruvate metabolism	AC5u0009GL000226
+Pyruvate metabolism	AC5u0009GL000410
+Pyruvate metabolism	AC5u0009GL000420
+Pyruvate metabolism	AC5u0009GL000468
+Pyruvate metabolism	AC5u0009GL000611
+Pyruvate metabolism	AC5u0009GL000624
+Pyruvate metabolism	AC5u0009GL000754
+Pyruvate metabolism	AC5u0009GL000790
+Pyruvate metabolism	AC5u0009GL000795
+Pyruvate metabolism	AC5u0009GL000796
+Pyruvate metabolism	AC5u0009GL000797
+Pyruvate metabolism	AC5u0009GL000844
+Pyruvate metabolism	AC5u0009GL000955
+Pyruvate metabolism	AC5u0009GL000976
+Pyruvate metabolism	AC5u0009GL001071
+Pyruvate metabolism	AC5u0009GL001116
+Pyruvate metabolism	AC5u0009GL001119
+Pyruvate metabolism	AC5u0009GL001601
+Pyruvate metabolism	AC5u0009GL001632
+Pyruvate metabolism	AC5u0009GL001747
+Pyruvate metabolism	AC5u0009GL001911
+Pyruvate metabolism	AC5u0009GL002172
+Pyruvate metabolism	AC5u0009GL001113
+Pyruvate metabolism	AC5u0009GL001289
+Pyruvate metabolism	AC5u0009GL001680
+Pyruvate metabolism	AC5u0009GL001858
+Riboflavin metabolism	AC5u0009GL000185
+Riboflavin metabolism	AC5u0009GL000911
+Riboflavin metabolism	AC5u0009GL001307
+Riboflavin metabolism	AC5u0009GL001308
+Riboflavin metabolism	AC5u0009GL001775
+Riboflavin metabolism	AC5u0009GL001776
+Riboflavin metabolism	AC5u0009GL001777
+Riboflavin metabolism	AC5u0009GL001904
+Riboflavin metabolism	AC5u0009GL001774
+Riboflavin metabolism	AC5u0009GL000581
+Riboflavin metabolism	AC5u0009GL000858
+Riboflavin metabolism	AC5u0009GL001752
+Riboflavin metabolism	AC5u0009GL000093
+Riboflavin metabolism	AC5u0009GL001758
+Riboflavin metabolism	AC5u0009GL001762
+Selenocompound metabolism	AC5u0009GL000437
+Selenocompound metabolism	AC5u0009GL000683
+Selenocompound metabolism	AC5u0009GL000726
+Selenocompound metabolism	AC5u0009GL000727
+Selenocompound metabolism	AC5u0009GL000798
+Selenocompound metabolism	AC5u0009GL000835
+Selenocompound metabolism	AC5u0009GL001080
+Selenocompound metabolism	AC5u0009GL001347
+Selenocompound metabolism	AC5u0009GL001474
+Selenocompound metabolism	AC5u0009GL001760
+Starch and sucrose metabolism	AC5u0009GL000274
+Starch and sucrose metabolism	AC5u0009GL000407
+Starch and sucrose metabolism	AC5u0009GL000408
+Starch and sucrose metabolism	AC5u0009GL001434
+Starch and sucrose metabolism	AC5u0009GL001824
+Starch and sucrose metabolism	AC5u0009GL000632
+Starch and sucrose metabolism	AC5u0009GL002111
+Starch and sucrose metabolism	AC5u0009GL002164
+Starch and sucrose metabolism	AC5u0009GL000236
+Sulfur metabolism	AC5u0009GL000726
+Sulfur metabolism	AC5u0009GL000884
+Sulfur metabolism	AC5u0009GL000653
+TCA cycle	AC5u0009GL000055
+TCA cycle	AC5u0009GL000419
+TCA cycle	AC5u0009GL000606
+TCA cycle	AC5u0009GL000780
+TCA cycle	AC5u0009GL001118
+TCA cycle	AC5u0009GL001170
+TCA cycle	AC5u0009GL001348
+TCA cycle	AC5u0009GL001361
+TCA cycle	AC5u0009GL001377
+TCA cycle	AC5u0009GL001591
+TCA cycle	AC5u0009GL001117
+TCA cycle	AC5u0009GL001188
+TCA cycle	AC5u0009GL001189
+Terpenoid backbone biosynthesis	AC5u0009GL000033
+Terpenoid backbone biosynthesis	AC5u0009GL000197
+Terpenoid backbone biosynthesis	AC5u0009GL000209
+Terpenoid backbone biosynthesis	AC5u0009GL000589
+Terpenoid backbone biosynthesis	AC5u0009GL000599
+Terpenoid backbone biosynthesis	AC5u0009GL000870
+Terpenoid backbone biosynthesis	AC5u0009GL001737
+Terpenoid backbone biosynthesis	AC5u0009GL001738
+Terpenoid backbone biosynthesis	AC5u0009GL001739
+Terpenoid backbone biosynthesis	AC5u0009GL001740
+Terpenoid backbone biosynthesis	AC5u0009GL002178
+Terpenoid backbone biosynthesis	AC5u0009GL000058
+Thiamine metabolism	AC5u0009GL000018
+Thiamine metabolism	AC5u0009GL000269
+Thiamine metabolism	AC5u0009GL000270
+Thiamine metabolism	AC5u0009GL000271
+Thiamine metabolism	AC5u0009GL000309
+Thiamine metabolism	AC5u0009GL000683
+Thiamine metabolism	AC5u0009GL000843
+Thiamine metabolism	AC5u0009GL000964
+Thiamine metabolism	AC5u0009GL001072
+Thiamine metabolism	AC5u0009GL001190
+Thiamine metabolism	AC5u0009GL001245
+Thiamine metabolism	AC5u0009GL001347
+Thiamine metabolism	AC5u0009GL001481
+Thiamine metabolism	AC5u0009GL002025
+Thiamine metabolism	AC5u0009GL000020
+Thiamine metabolism	AC5u0009GL000958
+Thiamine metabolism	AC5u0009GL001268
+Thiamine metabolism	AC5u0009GL001352
+Thiamine metabolism	AC5u0009GL001759
+Transport	AC5u0009GL000164
+Transport	AC5u0009GL000165
+Transport	AC5u0009GL000668
+Transport	AC5u0009GL000669
+Transport	AC5u0009GL000728
+Transport	AC5u0009GL000914
+Transport	AC5u0009GL000916
+Transport	AC5u0009GL001105
+Transport	AC5u0009GL001225
+Transport	AC5u0009GL001226
+Transport	AC5u0009GL001233
+Transport	AC5u0009GL001314
+Transport	AC5u0009GL001315
+Transport	AC5u0009GL001316
+Transport	AC5u0009GL001317
+Transport	AC5u0009GL001666
+Transport	AC5u0009GL001684
+Transport	AC5u0009GL001685
+Transport	AC5u0009GL001849
+Transport	AC5u0009GL002019
+Transport	AC5u0009GL002127
+Transport	AC5u0009GL002128
+Transport	AC5u0009GL000082
+Transport	AC5u0009GL000260
+Transport	AC5u0009GL001042
+Transport	AC5u0009GL001157
+Transport	AC5u0009GL001663
+Transport	AC5u0009GL001664
+Transport	AC5u0009GL002036
+Tyrosine metabolism	AC5u0009GL000055
+Tyrosine metabolism	AC5u0009GL000419
+Tyrosine metabolism	AC5u0009GL000780
+Tyrosine metabolism	AC5u0009GL001361
+Tyrosine metabolism	AC5u0009GL001591
+Tyrosine metabolism	AC5u0009GL001902
+Ubiquinone and other terpenoid-quinone biosynthesis	AC5u0009GL001463
+Ubiquinone and other terpenoid-quinone biosynthesis	AC5u0009GL001766
+Ubiquinone and other terpenoid-quinone biosynthesis	AC5u0009GL001767
+Ubiquinone and other terpenoid-quinone biosynthesis	AC5u0009GL001768
+Ubiquinone and other terpenoid-quinone biosynthesis	AC5u0009GL002179
+Valine, leucine and isoleucine biosynthesis	AC5u0009GL000907
+Vitamin B6 metabolism	AC5u0009GL000270
+Vitamin B6 metabolism	AC5u0009GL000843
+Vitamin B6 metabolism	AC5u0009GL001072
+beta-Alanine metabolism	AC5u0009GL000606
+beta-Alanine metabolism	AC5u0009GL000688
+beta-Alanine metabolism	AC5u0009GL000689
+bile acid biosynthesis	AC5u0009GL000416
+energy metabolism	AC5u0009GL000103
+energy metabolism	AC5u0009GL000104
+energy metabolism	AC5u0009GL000105
+energy metabolism	AC5u0009GL000106
+energy metabolism	AC5u0009GL000107
+energy metabolism	AC5u0009GL000108
+energy metabolism	AC5u0009GL000110
+energy metabolism	AC5u0009GL000675
+energy metabolism	AC5u0009GL000676
+energy metabolism	AC5u0009GL000677
+energy metabolism	AC5u0009GL000678
+energy metabolism	AC5u0009GL000679
+energy metabolism	AC5u0009GL000680
+energy metabolism	AC5u0009GL000770
+energy metabolism	AC5u0009GL001208
+energy metabolism	AC5u0009GL001551
+energy metabolism	AC5u0009GL000396
+energy metabolism	AC5u0009GL001117
+energy metabolism	AC5u0009GL001532
+energy metabolism	AC5u0009GL001764
+peptidoglycan biosynthesis	AC5u0009GL000365
+peptidoglycan biosynthesis	AC5u0009GL000368
+peptidoglycan biosynthesis	AC5u0009GL000370
+peptidoglycan biosynthesis	AC5u0009GL000371
+peptidoglycan biosynthesis	AC5u0009GL001126
+peptidoglycan biosynthesis	AC5u0009GL001177
+peptidoglycan biosynthesis	AC5u0009GL001178
+peptidoglycan biosynthesis	AC5u0009GL001332
+peptidoglycan biosynthesis	AC5u0009GL001334
+peptidoglycan biosynthesis	AC5u0009GL002096
+peptidoglycan biosynthesis	AC5u0009GL001418
+peptidoglycan biosynthesis	AC5u0009GL000369
+Propanoate metabolism	AC5u0009GL000624
+Propanoate metabolism	AC5u0009GL000754
+Propanoate metabolism	AC5u0009GL001911
+Propanoate metabolism	AC5u0009GL001913
+Propanoate metabolism	AC5u0009GL001918
+Propanoate metabolism	AC5u0009GL002172
+purine metabolism	AC5u0009GL000169
+purine metabolism	AC5u0009GL000394
+purine metabolism	AC5u0009GL000600
+purine metabolism	AC5u0009GL000769
+purine metabolism	AC5u0009GL000771
+purine metabolism	AC5u0009GL000892
+pyruvate metabolism	AC5u0009GL000078
+Transport	AC5u0009GL000111
+Transport	AC5u0009GL000124
+Transport	AC5u0009GL000125
+Transport	AC5u0009GL000138
+Transport	AC5u0009GL000151
+Transport	AC5u0009GL000164
+Transport	AC5u0009GL000165
+Transport	AC5u0009GL000316
+Transport	AC5u0009GL000317
+Transport	AC5u0009GL000318
+Transport	AC5u0009GL000409
+Transport	AC5u0009GL000586
+Transport	AC5u0009GL000587
+Transport	AC5u0009GL000588
+Transport	AC5u0009GL000605
+Transport	AC5u0009GL000612
+Transport	AC5u0009GL000613
+Transport	AC5u0009GL000614
+Transport	AC5u0009GL000667
+Transport	AC5u0009GL000668
+Transport	AC5u0009GL000669
+Transport	AC5u0009GL000727
+Transport	AC5u0009GL000728
+Transport	AC5u0009GL000729
+Transport	AC5u0009GL000800
+Transport	AC5u0009GL000834
+Transport	AC5u0009GL000914
+Transport	AC5u0009GL000915
+Transport	AC5u0009GL000916
+Transport	AC5u0009GL000918
+Transport	AC5u0009GL000940
+Transport	AC5u0009GL000984
+Transport	AC5u0009GL001081
+Transport	AC5u0009GL001105
+Transport	AC5u0009GL001158
+Transport	AC5u0009GL001181
+Transport	AC5u0009GL001184
+Transport	AC5u0009GL001196
+Transport	AC5u0009GL001214
+Transport	AC5u0009GL001217
+Transport	AC5u0009GL001218
+Transport	AC5u0009GL001222
+Transport	AC5u0009GL001225
+Transport	AC5u0009GL001226
+Transport	AC5u0009GL001233
+Transport	AC5u0009GL001234
+Transport	AC5u0009GL001235
+Transport	AC5u0009GL001236
+Transport	AC5u0009GL001302
+Transport	AC5u0009GL001304
+Transport	AC5u0009GL001305
+Transport	AC5u0009GL001313
+Transport	AC5u0009GL001314
+Transport	AC5u0009GL001315
+Transport	AC5u0009GL001316
+Transport	AC5u0009GL001317
+Transport	AC5u0009GL001364
+Transport	AC5u0009GL001435
+Transport	AC5u0009GL001437
+Transport	AC5u0009GL001438
+Transport	AC5u0009GL001484
+Transport	AC5u0009GL001485
+Transport	AC5u0009GL001486
+Transport	AC5u0009GL001488
+Transport	AC5u0009GL001499
+Transport	AC5u0009GL001500
+Transport	AC5u0009GL001518
+Transport	AC5u0009GL001541
+Transport	AC5u0009GL001666
+Transport	AC5u0009GL001667
+Transport	AC5u0009GL001684
+Transport	AC5u0009GL001685
+Transport	AC5u0009GL001848
+Transport	AC5u0009GL001849
+Transport	AC5u0009GL001853
+Transport	AC5u0009GL001885
+Transport	AC5u0009GL001886
+Transport	AC5u0009GL001887
+Transport	AC5u0009GL001930
+Transport	AC5u0009GL001971
+Transport	AC5u0009GL002019
+Transport	AC5u0009GL002024
+Transport	AC5u0009GL002064
+Transport	AC5u0009GL002080
+Transport	AC5u0009GL002081
+Transport	AC5u0009GL002082
+Transport	AC5u0009GL002083
+Transport	AC5u0009GL002112
+Transport	AC5u0009GL002127
+Transport	AC5u0009GL002128
+Transport	AC5u0009GL002129
+Transport	AC5u0009GL001888
+unclassified	AC5u0009GL000309
+unclassified	AC5u0009GL000414
+unclassified	AC5u0009GL000415
+unclassified	AC5u0009GL000468
+unclassified	AC5u0009GL000611
+unclassified	AC5u0009GL000682
+unclassified	AC5u0009GL000683
+unclassified	AC5u0009GL001152
+unclassified	AC5u0009GL001170
+unclassified	AC5u0009GL001244
+unclassified	AC5u0009GL001282
+unclassified	AC5u0009GL001347
+unclassified	AC5u0009GL001425
+unclassified	AC5u0009GL001426
+unclassified	AC5u0009GL001454
+unclassified	AC5u0009GL001760
+unclassified	AC5u0009GL001791
+unclassified	AC5u0009GL001883
+unclassified	AC5u0009GL001889
+unclassified	AC5u0009GL001891
+unclassified	AC5u0009GL001894
+unclassified	AC5u0009GL001898
+unclassified	AC5u0009GL001912
+unclassified	AC5u0009GL001937
+unclassified	AC5u0009GL002046
+vitamin B6 metabolism	AC5u0009GL000270
+vitamin B6 metabolism	AC5u0009GL000843
+vitamin B6 metabolism	AC5u0009GL001072
+vitamin B6 metabolism	AC5u0009GL000581
+vitamin B6 metabolism	AC5u0009GL000992

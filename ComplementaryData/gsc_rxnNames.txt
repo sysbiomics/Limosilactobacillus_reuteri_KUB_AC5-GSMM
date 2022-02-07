@@ -1,0 +1,1342 @@
+gene set	gene
+((3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	AC5u0009GL000225
+((3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	AC5u0009GL000233
+((3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	AC5u0009GL001030
+(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]:NADP+ oxidoreductase	AC5u0009GL000228
+(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]:NADP+ oxidoreductase	AC5u0009GL000944
+(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	AC5u0009GL000225
+(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	AC5u0009GL000233
+(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	AC5u0009GL001030
+(3R)-3-Hydroxydecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	AC5u0009GL000228
+(3R)-3-Hydroxydecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	AC5u0009GL000944
+(3R)-3-Hydroxyhexanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	AC5u0009GL000228
+(3R)-3-Hydroxyhexanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	AC5u0009GL000944
+(3R)-3-Hydroxyoctadecanoyl-[acyl-carrier-protein] hydro-lyase	AC5u0009GL000225
+(3R)-3-Hydroxyoctadecanoyl-[acyl-carrier-protein] hydro-lyase	AC5u0009GL000233
+(3R)-3-Hydroxyoctadecanoyl-[acyl-carrier-protein] hydro-lyase	AC5u0009GL001030
+(3R)-3-Hydroxyoctadecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	AC5u0009GL000228
+(3R)-3-Hydroxyoctadecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	AC5u0009GL000944
+(3R)-3-Hydroxyoctanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	AC5u0009GL000228
+(3R)-3-Hydroxyoctanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	AC5u0009GL000944
+(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase	AC5u0009GL000225
+(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase	AC5u0009GL000233
+(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase	AC5u0009GL001030
+(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	AC5u0009GL000228
+(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	AC5u0009GL000944
+(R)-5,6-dihydrothymine:NAD+ oxidoreductase	AC5u0009GL001033
+(R)-5,6-dihydrothymine:NAD+ oxidoreductase	AC5u0009GL001034
+(R,R)-butanediol dehydrogenase	AC5u0009GL000322
+1 4 dihydroxy 2 naphthoate octaprenyltransferase	AC5u0009GL002179
+1,2-diacylglycerol 3-glucosyltransferase (LRE specific)	AC5u0009GL001144
+1,2-diacylglycerol 3-glucosyltransferase (LRE specific)	AC5u0009GL001145
+1,3-propanediol dehydrogenase	AC5u0009GL001517
+1,4-dihydroxy-2-naphthoate octaprenyltransferase	AC5u0009GL002179
+1,4-dihydroxy-2-naphthoyl-CoA hydrolase	AC5u0009GL001768
+1-Acyl-glycerol-3-phosphate acyltransferase (Lb reuteri specific)	AC5u0009GL000205
+1-deoxy-D-xylulose 5-phosphate synthase	AC5u0009GL000870
+2 hydroxy 3 methylpentanoate dehydrogenase	AC5u0009GL000435
+2 hydroxy 3 methylpentanoate dehydrogenase	AC5u0009GL000781
+2,5-diketo-D-gluconate reductase	AC5u0009GL000399
+2,5-diketo-D-gluconate reductase	AC5u0009GL000463
+2,5-diketo-D-gluconate reductase	AC5u0009GL002037
+2,5-diketo-D-gluconate reductase (NADH)	AC5u0009GL000399
+2,5-diketo-D-gluconate reductase (NADH)	AC5u0009GL000463
+2,5-diketo-D-gluconate reductase (NADH)	AC5u0009GL002037
+2,5-diketo-D-gluconate reductase (NADPH)	AC5u0009GL000399
+2,5-diketo-D-gluconate reductase (NADPH)	AC5u0009GL000463
+2,5-diketo-D-gluconate reductase (NADPH)	AC5u0009GL002037
+2,5-diketo-D-gluconate reductase (NADPH)	AC5u0009GL000462
+2-aceto-2-hydroxybutanoate synthase	AC5u0009GL000907
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	AC5u0009GL001063
+2-dehydropantoate 2-reductase	AC5u0009GL000435
+2-dehydropantoate 2-reductase	AC5u0009GL000781
+2-methylpropanol dehydrogenase	AC5u0009GL001912
+3',5'-bisphosphate nucleotidase	AC5u0009GL001379
+3,4-Dihydroxy-2-butanone-4-phosphate	AC5u0009GL000911
+3,4-Dihydroxy-2-butanone-4-phosphate	AC5u0009GL001775
+3-Oxo-glutaryl-[ACP] methyl ester dehydratase	AC5u0009GL000225
+3-Oxo-glutaryl-[ACP] methyl ester dehydratase	AC5u0009GL000233
+3-Oxo-glutaryl-[ACP] methyl ester reductase	AC5u0009GL000228
+3-Oxo-pimeloyl-[ACP] methyl ester dehydratase	AC5u0009GL000225
+3-Oxo-pimeloyl-[ACP] methyl ester dehydratase	AC5u0009GL000233
+3-hydroxyacyl-CoA dehydratase (3-hydroxyhexadecanoyl-CoA)	AC5u0009GL001661
+3-hydroxyacyl-CoA dehydratase (3-hydroxyoctadecanoyl-CoA)	AC5u0009GL001661
+3-hydroxyacyl-CoA dehydratase (3-hydroxytetradecanoyl-CoA)	AC5u0009GL001661
+3-hydroxyacyl-CoA dehydrogenase (acetoacetyl-CoA)	AC5u0009GL001661
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C10:0)	AC5u0009GL000225
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C10:0)	AC5u0009GL000233
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C12:0)	AC5u0009GL000225
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C12:0)	AC5u0009GL000233
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C12:1)	AC5u0009GL000225
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C12:1)	AC5u0009GL000233
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C14:0)	AC5u0009GL000225
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C14:0)	AC5u0009GL000233
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C14:1)	AC5u0009GL000225
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C14:1)	AC5u0009GL000233
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C16:0)	AC5u0009GL000225
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C16:0)	AC5u0009GL000233
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C16:1)	AC5u0009GL000225
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C16:1)	AC5u0009GL000233
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C18:0)	AC5u0009GL000225
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C18:0)	AC5u0009GL000233
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C18:1)	AC5u0009GL000225
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C18:1)	AC5u0009GL000233
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C4:0)	AC5u0009GL000225
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C4:0)	AC5u0009GL000233
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C6:0)	AC5u0009GL000225
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C6:0)	AC5u0009GL000233
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C8:0)	AC5u0009GL000225
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C8:0)	AC5u0009GL000233
+3-oxoacyl-[acyl-carrier-protein] reductase (n-C10:0)	AC5u0009GL000228
+3-oxoacyl-[acyl-carrier-protein] reductase (n-C12:0)	AC5u0009GL000228
+3-oxoacyl-[acyl-carrier-protein] reductase (n-C14:0)	AC5u0009GL000228
+3-oxoacyl-[acyl-carrier-protein] reductase (n-C16:0)	AC5u0009GL000228
+3-oxoacyl-[acyl-carrier-protein] reductase (n-C18:0)	AC5u0009GL000228
+3-oxoacyl-[acyl-carrier-protein] reductase (n-C18:1)	AC5u0009GL000228
+3-oxoacyl-[acyl-carrier-protein] reductase (n-C4:0)	AC5u0009GL000228
+3-oxoacyl-[acyl-carrier-protein] reductase (n-C6:0)	AC5u0009GL000228
+3-oxoacyl-[acyl-carrier-protein] reductase (n-C8:0)	AC5u0009GL000228
+3-oxoacyl-[acyl-carrier-protein] synthase (n-C12:0)	AC5u0009GL000227
+3-oxoacyl-[acyl-carrier-protein] synthase (n-C14:0)	AC5u0009GL000227
+3-oxoacyl-[acyl-carrier-protein] synthase (n-C16:0)	AC5u0009GL000227
+3-oxoacyl-[acyl-carrier-protein] synthase (n-C18:0)	AC5u0009GL000227
+3-oxoacyl-[acyl-carrier-protein] synthase (n-C18:1)	AC5u0009GL000227
+3R)-3-Hydroxydodecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	AC5u0009GL000228
+3R)-3-Hydroxydodecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	AC5u0009GL000944
+3R)-3-Hydroxytetradecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	AC5u0009GL000228
+3R)-3-Hydroxytetradecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase	AC5u0009GL000944
+4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase	AC5u0009GL000589
+4-amino-5-hydroxymethyl-2-methylpyrimidine synthetase	AC5u0009GL001190
+4-aminobutyrate aminotransferase / Ornithine transaminase	AC5u0009GL000606
+4-aminobutyrate transaminase	AC5u0009GL000606
+4-aminobutyrate/glutamate antiport	AC5u0009GL000082
+4-aminobutyrate/glutamate antiport	AC5u0009GL001157
+4-carboxymuconolactone decarboxylase	AC5u0009GL000883
+4-oxalocrotonate tautomerase	AC5u0009GL001477
+5'-nucleotidase (AMP)	AC5u0009GL001278
+5'-nucleotidase (CMP)	AC5u0009GL001278
+5'-nucleotidase (GMP)	AC5u0009GL001278
+5'-nucleotidase (IMP)	AC5u0009GL001278
+5'-nucleotidase (UMP)	AC5u0009GL001278
+5'-nucleotidase (XMP)	AC5u0009GL001278
+5'-nucleotidase (dAMP)	AC5u0009GL001278
+5'-nucleotidase (dCMP)	AC5u0009GL001278
+5'-nucleotidase (dGMP)	AC5u0009GL001278
+5'-nucleotidase (dTMP)	AC5u0009GL001278
+5'-nucleotidase (dUMP)	AC5u0009GL001278
+5-Methylcytosine aminohydrolase	AC5u0009GL000758
+5-Methylcytosine aminohydrolase	AC5u0009GL000377
+5-amino-1-(5-phospho-D-ribosyl)imidazole:carbon-dioxide ligase (ADP-forming)	AC5u0009GL000325
+5-amino-1-(5-phospho-D-ribosyl)imidazole:carbon-dioxide ligase (ADP-forming)	AC5u0009GL000899
+5-amino-1-(5-phospho-D-ribosyl)imidazole:carbon-dioxide ligase (ADP-forming)	AC5u0009GL000900
+5-amino-6-(5-phosphoribosylamino)uracil reductase	AC5u0009GL001777
+5-aminolevulinate synthase;	AC5u0009GL001480
+5-carboxyamino-1-(5-phospho-D-ribosyl)imidazole carboxymutase	AC5u0009GL000325
+5-carboxyamino-1-(5-phospho-D-ribosyl)imidazole carboxymutase	AC5u0009GL000899
+5-carboxyamino-1-(5-phospho-D-ribosyl)imidazole carboxymutase	AC5u0009GL000900
+5-formyltetrahydrofolate cyclo-ligase	AC5u0009GL000018
+5-formyltetrahydrofolate cyclo-ligase	AC5u0009GL000065
+5-methyltetrahydropteroyltri-L-glutamate:L-selenohomocysteine Se-methyltransferase	AC5u0009GL000437
+5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase	AC5u0009GL000437
+6-(hydroxymethyl)-7,8-dihydropterin:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase	AC5u0009GL000847
+6-(hydroxymethyl)-7,8-dihydropterin:4-aminobenzoate 2-amino-4-hydroxydihydropteridine-6-methenyltransferase	AC5u0009GL001068
+6-phosphogluconolactonase	AC5u0009GL001322
+7,8-dihydroneopterin 2'-epimerase	AC5u0009GL001062
+ADPribose diphosphatase	AC5u0009GL001344
+ATP maintenance requirment	AC5u0009GL001532
+ATP synthase (three protons for one ATP)	AC5u0009GL000103
+ATP synthase (three protons for one ATP)	AC5u0009GL000104
+ATP synthase (three protons for one ATP)	AC5u0009GL000105
+ATP synthase (three protons for one ATP)	AC5u0009GL000106
+ATP synthase (three protons for one ATP)	AC5u0009GL000107
+ATP synthase (three protons for one ATP)	AC5u0009GL000108
+ATP synthase (three protons for one ATP)	AC5u0009GL000110
+ATP:L-homoserine O-phosphotransferase	AC5u0009GL000901
+ATP:alpha-D-glucose-1-phosphate adenylyltransferase	AC5u0009GL000632
+ATP:alpha-D-glucose-1-phosphate adenylyltransferase	AC5u0009GL002164
+ATP:dGMP phosphotransferase	AC5u0009GL000028
+ATP:dIDP phosphotransferase	AC5u0009GL000603
+ATP:nicotinamide-nucleotide adenylyltransferase	AC5u0009GL000090
+Acetyl-CoA:L-homoserine O-acetyltransferase	AC5u0009GL002042
+Acid phosphatase (FMN)	AC5u0009GL000581
+Acid phosphatase (FMN)	AC5u0009GL000858
+Acid phosphatase (FMN)	AC5u0009GL000093
+Adenine Adenosylcobalamide phosphate phosphatase	AC5u0009GL001876
+Adenine Adenosylcobalamin 5-phosphate synthase	AC5u0009GL001877
+Adenosine deaminase	AC5u0009GL000758
+Adenosine kinase	AC5u0009GL000309
+Adenosyl cobainamide GTP transferase	AC5u0009GL001878
+Adenosyl cobinamide kinase	AC5u0009GL001878
+Adenosyl cobyrinate a,c diamide  <=> Adenosyl cobyrinate hexaamide	AC5u0009GL001884
+Adenosylcobinamide-phosphate synthase	AC5u0009GL001900
+Adentylate kinase (GTP)	AC5u0009GL000309
+Adentylate kinase (ITP)	AC5u0009GL000309
+Adenylate kinase (Inorganic triphosphate)	AC5u0009GL000309
+Adenylyl-sulfate kinase	AC5u0009GL000071
+Alanine transaminase	AC5u0009GL000116
+Alanyl-tRNA synthetase	AC5u0009GL000651
+Alanyl-tRNA synthetase	AC5u0009GL002145
+Aminopropanol dehydrogenase reversible	AC5u0009GL001480
+Ap4A synthetase	AC5u0009GL000390
+Arginine deiminase	AC5u0009GL000127
+Arginine/ornithine antiporter	AC5u0009GL000124
+Arginine/ornithine antiporter	AC5u0009GL000125
+Arginine/ornithine antiporter	AC5u0009GL001158
+Arginine/ornithine antiporter	AC5u0009GL001437
+Arginine/ornithine antiporter	AC5u0009GL001438
+Arginine/ornithine antiporter	AC5u0009GL001484
+Arginyl-tRNA synthetase	AC5u0009GL000842
+Arginyl-tRNA synthetase	AC5u0009GL001073
+Aromatic amino acid aminotransferase phenylalanine	AC5u0009GL000055
+Aromatic amino acid aminotransferase phenylalanine	AC5u0009GL000419
+Aromatic amino acid aminotransferase phenylalanine	AC5u0009GL001361
+Aromatic amino acid aminotransferase phenylalanine	AC5u0009GL001591
+Aromatic amino acid aminotransferase tryptophan	AC5u0009GL000055
+Aromatic amino acid aminotransferase tryptophan	AC5u0009GL000419
+Aromatic amino acid aminotransferase tryptophan	AC5u0009GL001361
+Aromatic amino acid aminotransferase tryptophan	AC5u0009GL001591
+Aromatic amino acid aminotransferase tyrosine	AC5u0009GL000055
+Aromatic amino acid aminotransferase tyrosine	AC5u0009GL000419
+Aromatic amino acid aminotransferase tyrosine	AC5u0009GL001361
+Aromatic amino acid aminotransferase tyrosine	AC5u0009GL001591
+Asp-tRNA(Asn):L-glutamine amido-ligase (ADP-forming)	AC5u0009GL000329
+Asp-tRNA(Asn):L-glutamine amido-ligase (ADP-forming)	AC5u0009GL000330
+Asp-tRNA(Asn):L-glutamine amido-ligase (ADP-forming)	AC5u0009GL000331
+Asparaginyl-tRNA synthetase	AC5u0009GL000453
+Aspartyl-tRNA synthetase	AC5u0009GL000166
+Beta-ketoacyl-ACP synthase	AC5u0009GL000227
+Biotin-(acetyl-CoA carboxylase) ligase	AC5u0009GL001601
+Butyryl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase	AC5u0009GL000221
+Butyryl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein]C-acyltransferase (decarboxylating)	AC5u0009GL000227
+CDP-Diacylglycerol synthetase (LRE specific)	AC5u0009GL000196
+CPS synthase complex, LRE specific	AC5u0009GL001152
+CPS synthase complex, LRE specific	AC5u0009GL001282
+CPS synthase complex, LRE specific	AC5u0009GL001425
+CPS synthase complex, LRE specific	AC5u0009GL001426
+CPS synthase complex, LRE specific	AC5u0009GL001454
+CPS synthase complex, LRE specific	AC5u0009GL001791
+CPS synthase complex, LRE specific	AC5u0009GL001937
+CTP synthase (NH3)	AC5u0009GL000571
+CTP synthase (NH3)	AC5u0009GL000351
+CTP synthase (glutamine)	AC5u0009GL000367
+CTP synthase (glutamine)	AC5u0009GL000571
+CTP synthase (glutamine)	AC5u0009GL000351
+Carbamate kinase	AC5u0009GL000143
+Carbamate kinase (EC: 2.7.2.2) - 1a	AC5u0009GL000143
+Carbamate kinase (EC: 2.7.2.2) - 1b	AC5u0009GL000143
+Cardiolipin Synthase (LRE specific)	AC5u0009GL000414
+Cardiolipin Synthase (LRE specific)	AC5u0009GL000415
+Cardiolipin Synthase (LRE specific)	AC5u0009GL002046
+Cob(I)yrinate a,c diamide <=>  Adenosyl cobyrinate a,c diamide	AC5u0009GL001903
+Cob(I)yrinate a,c diamide <=>  Adenosyl cobyrinate a,c diamide	AC5u0009GL001915
+Cob(II)yrinate a,c diamide <=> Cob(I)yrinate a,c diamide	AC5u0009GL001904
+Cobalt transport via ABC system	AC5u0009GL000316
+Cobalt transport via ABC system	AC5u0009GL000317
+Cobalt transport via ABC system	AC5u0009GL000318
+Cobalt transport via ABC system	AC5u0009GL001885
+Cobalt transport via ABC system	AC5u0009GL001886
+Cobalt transport via ABC system	AC5u0009GL001887
+Cobalt transport via ABC system	AC5u0009GL001888
+Cobinamide adenyltransferase	AC5u0009GL001903
+Cobinamide adenyltransferase	AC5u0009GL001915
+Cobyrinic acid a,c-diamide synthase 	AC5u0009GL001901
+Cobyrinic acid a,c-diamide synthase (EC 6.3.1.-)	AC5u0009GL001901
+Copper export via ATPase	AC5u0009GL000138
+Cystathionine beta synthase	AC5u0009GL001444
+Cystathionine beta synthase	AC5u0009GL002043
+Cysteine Desulfhydrase	AC5u0009GL000726
+Cysteinyl-tRNA synthetase	AC5u0009GL000736
+Cytidine hydrolase	AC5u0009GL001662
+Cytidine hydrolase	AC5u0009GL001778
+Cytosine deaminase	AC5u0009GL000758
+Cytosine deaminase	AC5u0009GL000377
+D-Alanine lipoteichoic acid ligase	AC5u0009GL000368
+D-Alanine lipoteichoic acid ligase	AC5u0009GL000370
+D-Alanine lipoteichoic acid ligase	AC5u0009GL000371
+D-Alanine lipoteichoic acid ligase	AC5u0009GL000369
+D-alanine transaminase	AC5u0009GL000116
+D-alanine transport via proton symport	AC5u0009GL001042
+D-alanine transport via proton symport	AC5u0009GL001664
+D-alanine-D-lactate ligase (reversible)	AC5u0009GL000096
+D-alanine:D-alanine ligase (ADP-forming)	AC5u0009GL000096
+D-cysteine transport via ABC system	AC5u0009GL000165
+D-cysteine transport via ABC system	AC5u0009GL000668
+D-cysteine transport via ABC system	AC5u0009GL000727
+D-cysteine transport via ABC system	AC5u0009GL000728
+D-cysteine transport via ABC system	AC5u0009GL000729
+D-cysteine transport via ABC system	AC5u0009GL001233
+D-cysteine transport via ABC system	AC5u0009GL001666
+D-cysteine transport via ABC system	AC5u0009GL001685
+D-cysteine transport via ABC system	AC5u0009GL002128
+D-fructose 1-phosphate phosphatase	AC5u0009GL002089
+D-fructose 1-phosphate phosphatase	AC5u0009GL000581
+D-fructose 1-phosphate phosphatase	AC5u0009GL000639
+D-fructose 1-phosphate phosphatase	AC5u0009GL002157
+D-fructose 6-phosphate phosphatase	AC5u0009GL002089
+D-fructose 6-phosphate phosphatase	AC5u0009GL000581
+D-fructose 6-phosphate phosphatase	AC5u0009GL001752
+D-fructose 6-phosphate phosphatase	AC5u0009GL000639
+D-fructose 6-phosphate phosphatase	AC5u0009GL002157
+D-gluconate transport via proton symport, reversible	AC5u0009GL001364
+D-gluconate transport via proton symport, reversible	AC5u0009GL001541
+D-glucose transport in via proton symport	AC5u0009GL000151
+D-glucose transport in via proton symport	AC5u0009GL000984
+D-glucose transport in via proton symport	AC5u0009GL001518
+D-lactate dehydrogenase	AC5u0009GL000202
+D-lactate dehydrogenase	AC5u0009GL000420
+D-lactate dehydrogenase	AC5u0009GL000955
+D-lactate dehydrogenase	AC5u0009GL001632
+D-mannitol dehydrogenase	AC5u0009GL001852
+D-methionine transport via ABC system	AC5u0009GL000612
+D-methionine transport via ABC system	AC5u0009GL000613
+D-methionine transport via ABC system	AC5u0009GL000614
+D-methionine transport via ABC system	AC5u0009GL000668
+D-methionine transport via ABC system	AC5u0009GL001233
+D-methionine transport via ABC system	AC5u0009GL001666
+D-methionine transport via ABC system	AC5u0009GL001848
+D-methionine transport via ABC system	AC5u0009GL002128
+D-serine dehydrogenase	AC5u0009GL001259
+D-serine transport via proton symport	AC5u0009GL001042
+D-serine transport via proton symport	AC5u0009GL001664
+DCMP deaminase	AC5u0009GL001387
+Decanoyl-[acyl-carrier protein]:malonyl-CoA  C-acyltransferase	AC5u0009GL000221
+Decanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase	AC5u0009GL000227
+Deoxyadenosine deaminase	AC5u0009GL000758
+Deoxycytidine kinase	AC5u0009GL000071
+Deoxyribokinase	AC5u0009GL000982
+Deoxyribokinase	AC5u0009GL001057
+Diacylglycerol kinase (LRE specific)	AC5u0009GL000332
+Diacylglycerol kinase (LRE specific)	AC5u0009GL001598
+Diaminohydroxyphosphoribosylaminopryrimidine deaminase (25drapp)	AC5u0009GL001777
+Dihydoorotic acid dehydrogenase  irreversible 	AC5u0009GL001495
+Dihydroneopterin monophosphate dephosphorylase	AC5u0009GL000848
+Dihydroneopterin monophosphate dephosphorylase	AC5u0009GL001067
+Dihydroneopterin monophosphate dephosphorylase	AC5u0009GL000642
+Dihydroneopterin monophosphate dephosphorylase	AC5u0009GL002154
+Dihydroneopterin triphosphate pyrophosphatase	AC5u0009GL000848
+Dihydroneopterin triphosphate pyrophosphatase	AC5u0009GL001067
+Dihydropteroate synthase	AC5u0009GL000847
+Dihydropteroate synthase	AC5u0009GL001068
+Dihydrouracil dehydrogenase (NAD)	AC5u0009GL001033
+Dihydrouracil dehydrogenase (NAD)	AC5u0009GL001034
+Dihydroxyacetone transport via facilitated diffusion	AC5u0009GL001930
+Diphosphate transport in via ABC system	AC5u0009GL001314
+Diphosphate transport in via ABC system	AC5u0009GL001315
+Diphosphate transport in via ABC system	AC5u0009GL001316
+Diphosphate transport in via ABC system	AC5u0009GL001317
+Dodecanoyl-[acyl-carrier protein]: malonyl-CoA  C-acyltransferase	AC5u0009GL000221
+Dodecanoyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein]  C-acyltransferase	AC5u0009GL000227
+Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C10:0)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C12:0)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C12:1)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C14:0)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C14:1)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C16:0)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C16:1)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C18:0)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C18:1)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C6:0)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C8:0)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C10:0)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C12:0)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C12:1)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C14:0)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C14:1)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C16:0)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C16:1)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C18:0)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C18:1)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C4:0)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C6:0)	AC5u0009GL000221
+Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C8:0)	AC5u0009GL000221
+FMN adenylyltransferase	AC5u0009GL000185
+FMN hydrolase / 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase	AC5u0009GL000858
+FMN hydrolase / 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase	AC5u0009GL001752
+FMN reductase	AC5u0009GL001904
+Formyl-CoA Transferase	AC5u0009GL000692
+Fructose-bisphosphatase	AC5u0009GL000581
+Fumarate reductase NADH 	AC5u0009GL001117
+GDP diphosphokinase	AC5u0009GL000169
+GMP reductase	AC5u0009GL000395
+GMP synthase	AC5u0009GL000967
+GMP synthase (glutamine-hydrolysing)	AC5u0009GL000459
+GMP synthase (glutamine-hydrolysing)	AC5u0009GL000967
+GTP 3',8-cyclase	AC5u0009GL001952
+GTP cyclohydrolase I	AC5u0009GL001064
+GTP cyclohydrolase II	AC5u0009GL000911
+GTP cyclohydrolase II	AC5u0009GL001775
+GTP cyclohydrolase II (25drapp)	AC5u0009GL000911
+GTP cyclohydrolase II (25drapp)	AC5u0009GL001775
+GTP diphosphokinase	AC5u0009GL000169
+GTP diphosphokinase	AC5u0009GL000405
+GTP diphosphokinase	AC5u0009GL001811
+Galactokinase	AC5u0009GL002028
+Glucose lipoteichoic acid ligase	AC5u0009GL001177
+Glucose lipoteichoic acid ligase	AC5u0009GL001178
+Glucose ribitol teichoic acid ligase	AC5u0009GL001162
+Glucose-1-phosphatase	AC5u0009GL002089
+Glucose-1-phosphatase	AC5u0009GL000581
+Glucose-6-phosphate isomerase	AC5u0009GL000149
+Glucose-6-phosphate phosphatase	AC5u0009GL002089
+Glucose-6-phosphate phosphatase	AC5u0009GL001752
+Glucose-6-phosphate phosphatase	AC5u0009GL000639
+Glucose-6-phosphate phosphatase	AC5u0009GL002157
+Glutaminyl tRNA synthetase	AC5u0009GL000329
+Glutaminyl tRNA synthetase	AC5u0009GL000330
+Glutaminyl tRNA synthetase	AC5u0009GL000331
+Glutamyl-tRNA synthetase	AC5u0009GL000056
+Glycerate kinase	AC5u0009GL001365
+Glycerol dehydrogenase	AC5u0009GL001480
+Glycerol-3-phosphatase	AC5u0009GL000621
+Glycerol-3-phosphatase	AC5u0009GL000639
+Glycerol-3-phosphatase	AC5u0009GL002157
+Glycerol-3-phosphatase	AC5u0009GL002175
+Glycerol-3-phosphate dehydrogenase (NADP)	AC5u0009GL000793
+Glycerophosphodiester phosphodiesterase (Glycerophosphoethanolamine)	AC5u0009GL000398
+Glycerophosphodiester phosphodiesterase (Glycerophosphoglycerol)	AC5u0009GL000398
+Glycerophosphodiester phosphodiesterase (Glycerophosphoinositol)	AC5u0009GL000398
+Glycerophosphodiester phosphodiesterase (Glycerophosphoserine)	AC5u0009GL000398
+Glycerophosphodiester phosphodiesterase (sn-Glycero-3-phosphocholine)	AC5u0009GL000398
+Glycyl-tRNA synthetase	AC5u0009GL001594
+Glycyl-tRNA synthetase	AC5u0009GL001595
+Guanosine 3'-diphosphate 5'-triphosphate 3'-diphosphatase	AC5u0009GL000169
+Guanylate kinase  GMPdATP 	AC5u0009GL000028
+Guanylate kinase  GMPdATP 	AC5u0009GL000948
+Heme B synthesis reaction	AC5u0009GL001301
+Hexadecanoyl-[acyl-carrier protein]:malonyl-CoA  C-acyltransferase	AC5u0009GL000221
+Hexadecanoyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein]  C-acyltransferase	AC5u0009GL000227
+Hexanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase	AC5u0009GL000221
+Hexanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein] C-acyltransferase	AC5u0009GL000227
+Histidyl-tRNA synthetase	AC5u0009GL001710
+Homoserine O-succinyltransferase	AC5u0009GL002042
+Hydroxymethylglutaryl CoA reductase	AC5u0009GL000599
+Hydroxymethylglutaryl CoA synthase	AC5u0009GL000209
+Hydroxymethylpyrimidine ABC transporter	AC5u0009GL001217
+Hydroxymethylpyrimidine ABC transporter	AC5u0009GL001218
+IMP cyclohydrolase	AC5u0009GL000890
+IMP dehydrogenase	AC5u0009GL001503
+ISC Cysteine desulfuration	AC5u0009GL000683
+ISC Cysteine desulfuration	AC5u0009GL001347
+ISC [2Fe-2S] Synthesis	AC5u0009GL000683
+ISC [2Fe-2S] Synthesis	AC5u0009GL001347
+ISC [2Fe-2S] Synthesis	AC5u0009GL001759
+ISC [2Fe-2S] regeneration	AC5u0009GL000683
+ISC [2Fe-2S] regeneration	AC5u0009GL001347
+ISC [2Fe-2S] regeneration	AC5u0009GL001759
+Iron (II) transport via ABC system	AC5u0009GL001764
+Isoleucyl-tRNA synthetase	AC5u0009GL001342
+Ketol-acid reductoisomerase (2-Acetolactate)	AC5u0009GL000793
+L-2-hydroxyisocaproate dehydrogenase	AC5u0009GL000468
+L-2-hydroxyisocaproate dehydrogenase	AC5u0009GL000611
+L-2-hydroxyisocaproate dehydrogenase	AC5u0009GL001170
+L-Lactate dehydrogenase (menaquinone)	AC5u0009GL000795
+L-Lactate dehydrogenase (menaquinone)	AC5u0009GL000796
+L-Lactate dehydrogenase (menaquinone)	AC5u0009GL000797
+L-Lactate dehydrogenase (menaquinone)	AC5u0009GL001503
+L-Lactate dehydrogenase (ubiquinone)	AC5u0009GL000795
+L-Lactate dehydrogenase (ubiquinone)	AC5u0009GL000796
+L-Lactate dehydrogenase (ubiquinone)	AC5u0009GL000797
+L-Lactate dehydrogenase (ubiquinone)	AC5u0009GL001503
+L-alanine transport in/out via proton symport	AC5u0009GL001042
+L-alanine transport in/out via proton symport	AC5u0009GL001664
+L-allo-Threonine Aldolase	AC5u0009GL000116
+L-allo-threonine dehydrogenase	AC5u0009GL001259
+L-arginine transport in via proton symport	AC5u0009GL000124
+L-arginine transport via ABC system	AC5u0009GL000164
+L-arginine transport via ABC system	AC5u0009GL000165
+L-arginine transport via ABC system	AC5u0009GL000668
+L-arginine transport via ABC system	AC5u0009GL000669
+L-arginine transport via ABC system	AC5u0009GL000728
+L-arginine transport via ABC system	AC5u0009GL001233
+L-arginine transport via ABC system	AC5u0009GL001666
+L-arginine transport via ABC system	AC5u0009GL001684
+L-arginine transport via ABC system	AC5u0009GL001685
+L-arginine transport via ABC system	AC5u0009GL001849
+L-arginine transport via ABC system	AC5u0009GL002127
+L-arginine transport via ABC system	AC5u0009GL002128
+L-asparaginase	AC5u0009GL000465
+L-cysteine transport via ABC system	AC5u0009GL000165
+L-cysteine transport via ABC system	AC5u0009GL000668
+L-cysteine transport via ABC system	AC5u0009GL000727
+L-cysteine transport via ABC system	AC5u0009GL000728
+L-cysteine transport via ABC system	AC5u0009GL000729
+L-cysteine transport via ABC system	AC5u0009GL001233
+L-cysteine transport via ABC system	AC5u0009GL001666
+L-cysteine transport via ABC system	AC5u0009GL001685
+L-cysteine transport via ABC system	AC5u0009GL002128
+L-fucose transport via proton symport	AC5u0009GL000984
+L-glutamate transport in/out via proton symporter	AC5u0009GL002024
+L-glutamate transport via ABC system	AC5u0009GL000164
+L-glutamate transport via ABC system	AC5u0009GL000165
+L-glutamate transport via ABC system	AC5u0009GL000668
+L-glutamate transport via ABC system	AC5u0009GL000669
+L-glutamate transport via ABC system	AC5u0009GL000728
+L-glutamate transport via ABC system	AC5u0009GL001233
+L-glutamate transport via ABC system	AC5u0009GL001666
+L-glutamate transport via ABC system	AC5u0009GL001684
+L-glutamate transport via ABC system	AC5u0009GL001685
+L-glutamate transport via ABC system	AC5u0009GL001849
+L-glutamate transport via ABC system	AC5u0009GL002127
+L-glutamate transport via ABC system	AC5u0009GL002128
+L-glutamine transport via ABC system	AC5u0009GL000165
+L-glutamine transport via ABC system	AC5u0009GL000668
+L-glutamine transport via ABC system	AC5u0009GL000728
+L-glutamine transport via ABC system	AC5u0009GL001233
+L-glutamine transport via ABC system	AC5u0009GL001234
+L-glutamine transport via ABC system	AC5u0009GL001235
+L-glutamine transport via ABC system	AC5u0009GL001236
+L-glutamine transport via ABC system	AC5u0009GL001666
+L-glutamine transport via ABC system	AC5u0009GL001667
+L-glutamine transport via ABC system	AC5u0009GL001685
+L-glutamine transport via ABC system	AC5u0009GL001849
+L-glutamine transport via ABC system	AC5u0009GL002128
+L-histidine transport via ABC system	AC5u0009GL000164
+L-histidine transport via ABC system	AC5u0009GL000165
+L-histidine transport via ABC system	AC5u0009GL000613
+L-histidine transport via ABC system	AC5u0009GL000667
+L-histidine transport via ABC system	AC5u0009GL000668
+L-histidine transport via ABC system	AC5u0009GL000669
+L-histidine transport via ABC system	AC5u0009GL000728
+L-histidine transport via ABC system	AC5u0009GL000800
+L-histidine transport via ABC system	AC5u0009GL001233
+L-histidine transport via ABC system	AC5u0009GL001666
+L-histidine transport via ABC system	AC5u0009GL001685
+L-histidine transport via ABC system	AC5u0009GL002127
+L-histidine transport via ABC system	AC5u0009GL002128
+L-histidine transport via ABC system	AC5u0009GL002129
+L-isoeucine transport in/out via proton symport	AC5u0009GL001196
+L-isoeucine transport in/out via proton symport	AC5u0009GL001499
+L-isoeucine transport in/out via proton symport	AC5u0009GL001500
+L-isoeucine transport in/out via proton symport	AC5u0009GL002064
+L-isoleucine transport in via proton symport	AC5u0009GL001196
+L-isoleucine transport in via proton symport	AC5u0009GL002064
+L-lactate dehydrogenase	AC5u0009GL000175
+L-lactate dehydrogenase	AC5u0009GL000177
+L-lactate dehydrogenase	AC5u0009GL000468
+L-lactate dehydrogenase	AC5u0009GL000611
+L-lactate dehydrogenase	AC5u0009GL000795
+L-lactate dehydrogenase	AC5u0009GL000796
+L-lactate dehydrogenase	AC5u0009GL000797
+L-lactate dehydrogenase	AC5u0009GL000844
+L-lactate dehydrogenase	AC5u0009GL001071
+L-lactate dehydrogenase	AC5u0009GL001116
+L-lactate dehydrogenase	AC5u0009GL001747
+L-leucine transport in via proton symport	AC5u0009GL001196
+L-leucine transport in via proton symport	AC5u0009GL002064
+L-leucine transport in/out via proton symport	AC5u0009GL001196
+L-leucine transport in/out via proton symport	AC5u0009GL001499
+L-leucine transport in/out via proton symport	AC5u0009GL001500
+L-leucine transport in/out via proton symport	AC5u0009GL002064
+L-lysine transport in/out via proton symport	AC5u0009GL001222
+L-methionine transport via ABC system	AC5u0009GL000612
+L-methionine transport via ABC system	AC5u0009GL000613
+L-methionine transport via ABC system	AC5u0009GL000614
+L-methionine transport via ABC system	AC5u0009GL000668
+L-methionine transport via ABC system	AC5u0009GL001233
+L-methionine transport via ABC system	AC5u0009GL001666
+L-methionine transport via ABC system	AC5u0009GL001848
+L-methionine transport via ABC system	AC5u0009GL002128
+L-methionine-R-sulfoxide reductase	AC5u0009GL001491
+L-methionine-R-sulfoxide reductase	AC5u0009GL000913
+L-methionine-S-oxide reductase	AC5u0009GL001491
+L-methionine-S-oxide reductase	AC5u0009GL000051
+L-methionine-S-oxide reductase	AC5u0009GL000248
+L-proline transport via ABC system	AC5u0009GL000165
+L-proline transport via ABC system	AC5u0009GL000668
+L-proline transport via ABC system	AC5u0009GL000728
+L-proline transport via ABC system	AC5u0009GL000914
+L-proline transport via ABC system	AC5u0009GL000916
+L-proline transport via ABC system	AC5u0009GL001233
+L-proline transport via ABC system	AC5u0009GL001666
+L-proline transport via ABC system	AC5u0009GL001685
+L-proline transport via ABC system	AC5u0009GL001849
+L-proline transport via ABC system	AC5u0009GL002128
+L-serine deaminase	AC5u0009GL001471
+L-serine deaminase	AC5u0009GL001472
+L-serine dehydrogenase	AC5u0009GL001259
+L-serine transport in/out via proton symport	AC5u0009GL001105
+L-serine transport in/out via proton symport	AC5u0009GL001225
+L-serine transport in/out via proton symport	AC5u0009GL001226
+L-serine transport out via proton antiport	AC5u0009GL001105
+L-serine transport out via proton antiport	AC5u0009GL001225
+L-serine transport out via proton antiport	AC5u0009GL001226
+L-threonine transport out via proton antiport	AC5u0009GL001105
+L-threonine transport out via proton antiport	AC5u0009GL001225
+L-threonine transport out via proton antiport	AC5u0009GL001226
+L-tyrosine transport in/out via proton symport	AC5u0009GL000940
+L-tyrosine transport in/out via proton symport	AC5u0009GL001485
+L-valine transport in/out via proton symport	AC5u0009GL001196
+L-valine transport in/out via proton symport	AC5u0009GL001499
+L-valine transport in/out via proton symport	AC5u0009GL001500
+L-valine transport in/out via proton symport	AC5u0009GL002064
+Leucyl-tRNA synthetase	AC5u0009GL001047
+Lipoate-ATP adenylate transferase	AC5u0009GL001200
+Lipteichoic acid reaction (Lb.reuteri specific)	AC5u0009GL001144
+Lipteichoic acid reaction (Lb.reuteri specific)	AC5u0009GL001598
+Lysyl-tRNA synthetase	AC5u0009GL000390
+Malic enzyme (NAD)	AC5u0009GL001119
+Malonyl-CoA:[acyl-carrier-protein] S-malonyltransferase	AC5u0009GL000229
+Maltodextrin glucosidase (maltohexaose)	AC5u0009GL002111
+Maltodextrin glucosidase (maltopentaose)	AC5u0009GL002111
+Maltodextrin glucosidase (maltotetraose)	AC5u0009GL002111
+Maltodextrin glucosidase (maltotriose)	AC5u0009GL002111
+Maltose O-acetyltransferase	AC5u0009GL000150
+Maltose O-acetyltransferase	AC5u0009GL000472
+Mannitol efflux via ABC system	AC5u0009GL000165
+Mannitol efflux via ABC system	AC5u0009GL000668
+Mannitol efflux via ABC system	AC5u0009GL001848
+Mannitol efflux via ABC system	AC5u0009GL001849
+Mannitol efflux via ABC system	AC5u0009GL002128
+Methionine g lyase	AC5u0009GL000726
+Methionyl-tRNA formyltransferase	AC5u0009GL000024
+Methionyl-tRNA synthetase	AC5u0009GL000594
+MoaD:cysteine sulfur transferase	AC5u0009GL000682
+MoaD:cysteine sulfur transferase	AC5u0009GL000683
+MoaD:cysteine sulfur transferase	AC5u0009GL001347
+MoaD:cysteine sulfur transferase	AC5u0009GL001760
+Molybdenum cofactor synthase	AC5u0009GL000251
+Molybdopterin guanine dinucleotide synthase	AC5u0009GL000253
+Molybdopterin guanine dinucleotide synthase	AC5u0009GL000252
+N-acetylmuramoyl-L-alanine amidase	AC5u0009GL001126
+N-acetylmuramoyl-L-alanine amidase	AC5u0009GL002096
+N-acetylmuramoyl-L-alanine amidase	AC5u0009GL001418
+NAD diphosphatase	AC5u0009GL000327
+NAD diphosphatase	AC5u0009GL001552
+NAD kinase	AC5u0009GL001810
+NAD synthase (nh4)	AC5u0009GL000719
+NADH dehydrogenase (Menaquinone 7 & no proton)	AC5u0009GL000675
+NADH dehydrogenase (demethylmenaquinone-8 & 0 protons)	AC5u0009GL000675
+NADH dehydrogenase (demethylmenaquinone-8 & 0 protons)	AC5u0009GL001904
+NADH dehydrogenase (demethylmenaquinone-8 & 0 protons)	AC5u0009GL002057
+NADH dehydrogenase (menaquinone-8 & 0 protons)	AC5u0009GL000675
+NADH dehydrogenase (menaquinone-8 & 0 protons)	AC5u0009GL001904
+NADH dehydrogenase (menaquinone-8 & 0 protons)	AC5u0009GL002057
+NADH dehydrogenase (ubiquinone-8 )	AC5u0009GL000675
+NADH dehydrogenase (ubiquinone-8 )	AC5u0009GL001904
+NADH dehydrogenase (ubiquinone-8 )	AC5u0009GL002057
+NADH oxidase (H2O forming)	AC5u0009GL000396
+NADH oxidase (H2O2 forming)	AC5u0009GL000396
+NAPRTase	AC5u0009GL000345
+NAPRTase	AC5u0009GL000718
+NMN permease	AC5u0009GL002036
+Nicotinamide-nucleotide adenylyltransferase	AC5u0009GL000090
+Nicotinamide-nucleotide adenylyltransferase	AC5u0009GL001630
+Nicotinate D-ribonucleoside:orthophosphate ribosyltransferase	AC5u0009GL001505
+Nucleoside triphosphate pyrophosphorylase (itp)	AC5u0009GL000642
+Nucleoside triphosphate pyrophosphorylase (itp)	AC5u0009GL002154
+Nucleoside-triphosphatase (CTP)	AC5u0009GL000020
+Nucleoside-triphosphatase (GTP)	AC5u0009GL000020
+Nucleoside-triphosphatase (GTP)	AC5u0009GL000958
+Nucleoside-triphosphatase (GTP)	AC5u0009GL001268
+Nucleoside-triphosphatase (GTP)	AC5u0009GL001352
+Nucleoside-triphosphatase (ITP)	AC5u0009GL000020
+O-Acetyl-L-homoserine acetate-lyase (adding methanethiol)	AC5u0009GL000439
+O-phospho-L-homoserine phosphate-lyase (adding water;L-threonine-forming)	AC5u0009GL000903
+O-phospho-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase	AC5u0009GL001444
+O-phospho-L-serine:hydrogen-sulfide 2-amino-2-carboxyethyltransferase	AC5u0009GL002043
+O-succinylhomoserine lyase (L-cysteine)	AC5u0009GL000726
+Octadecanoyl-[acyl-carrier protein]:malonyl-CoA  C-acyltransferase	AC5u0009GL000221
+Octanoyl-[acyl-carrier protein]:malonyl-CoA C-acyltransferase	AC5u0009GL000221
+Octanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein]   C-acyltransferase (decarboxylating)	AC5u0009GL000227
+Octaprenyl pyrophosphate synthase	AC5u0009GL002178
+Ornithine transaminase	AC5u0009GL000606
+Oxalyl-CoA decarboxylase	AC5u0009GL000698
+Phenylalanyl-tRNA synthetase	AC5u0009GL000073
+Phenylalanyl-tRNA synthetase	AC5u0009GL000074
+Phenylalanyl-tRNA synthetase	AC5u0009GL000827
+Phenylalanyl-tRNA synthetase	AC5u0009GL001088
+Phosphate acetyltransferase	AC5u0009GL000976
+Phosphate acetyltransferase	AC5u0009GL001918
+Phosphate propanoyltransferase	AC5u0009GL001918
+Phosphatidylglycerol phosphate phosphatase (LRE specific)	AC5u0009GL000931
+Phosphatidylglycerol synthase (LRE specific)	AC5u0009GL000663
+Phosphatidylglycerol synthase (LRE specific)	AC5u0009GL002133
+Phosphatidylglycerol:membrane-derived-oligosaccharide-D-glucose glycerophosphotransferase	AC5u0009GL001481
+Phospho N acetylmuramoyl pentapeptide transferase alpha glutamate 	AC5u0009GL001332
+Phospho-N-acetylmuramoyl-pentapeptide-transferase (meso-2,6-diaminopimelate)	AC5u0009GL001332
+Phosphofructokinase, PfkB	AC5u0009GL000982
+Phosphofructokinase, PfkB	AC5u0009GL001057
+Phosphopantothenate-cysteine ligase	AC5u0009GL000026
+Phosphoribosylaminoimidazole carboxylase	AC5u0009GL000899
+Phosphoribosylaminoimidazole carboxylase (mutase rxn)	AC5u0009GL000900
+Polyphosphate kinase	AC5u0009GL000770
+Precorrin-2 C20-methyltransferase	AC5u0009GL001889
+Precorrin-3B C17-methyltransferase (EC 2.1.1.131)	AC5u0009GL001893
+Precorrin-4 C11-methyltransferase (EC 2.1.1.133)	AC5u0009GL001895
+Precorrin-6A synthase (deacetylating)	AC5u0009GL001894
+Precorrin-6A synthase (deacetylating)	AC5u0009GL001898
+Precorrin-6X reductase (EC 1.3.1.54)	AC5u0009GL001892
+Precorrin-6Y C5,15-methyltransferase [decarboxylating] E.C. 2.1.1.132	AC5u0009GL001896
+Precorrin-6Y C5,15-methyltransferase [decarboxylating] E.C. 2.1.1.132	AC5u0009GL001897
+Precorrin-8X methylmutase 	AC5u0009GL001899
+Precorrin-8X methylmutase (EC 5.4.1.2)	AC5u0009GL001899
+Prenyl transferase	AC5u0009GL002178
+Prolyl-tRNA synthetase	AC5u0009GL000194
+Propionate kinase	AC5u0009GL000624
+Propionate kinase	AC5u0009GL001911
+Propionate kinase	AC5u0009GL002172
+Pyrazinamidase	AC5u0009GL000346
+Pyridoxal 5-phosphate phosphatase	AC5u0009GL000581
+Pyridoxal 5-phosphate phosphatase	AC5u0009GL001752
+Pyridoxal 5-phosphate phosphatase	AC5u0009GL000621
+Pyridoxal 5-phosphate phosphatase	AC5u0009GL002175
+Pyrimidine phosphatase	AC5u0009GL000858
+Pyrimidine phosphatase	AC5u0009GL000093
+Pyrroline-5-carboxylate reductase	AC5u0009GL000776
+Quinone oxidoreductase	AC5u0009GL001208
+R_THRt2r	AC5u0009GL001105
+R_THRt2r	AC5u0009GL001225
+R_THRt2r	AC5u0009GL001226
+Raffinose galactohydrolase	AC5u0009GL000933
+Raffinose galactohydrolase	AC5u0009GL001744
+Riboflavin synthase	AC5u0009GL001776
+Riboflavin synthase	AC5u0009GL001774
+Ribonucleoside-triphosphate reductase (ATP) (flavodoxin)	AC5u0009GL001026
+Ribonucleoside-triphosphate reductase (ATP) (flavodoxin)	AC5u0009GL001161
+Ribonucleoside-triphosphate reductase (ATP) (flavodoxin)	AC5u0009GL001905
+Ribonucleoside-triphosphate reductase (CTP) (flavodoxin)	AC5u0009GL001026
+Ribonucleoside-triphosphate reductase (CTP) (flavodoxin)	AC5u0009GL001161
+Ribonucleoside-triphosphate reductase (CTP) (flavodoxin)	AC5u0009GL001905
+Ribonucleoside-triphosphate reductase (GTP) (flavodoxin)	AC5u0009GL001026
+Ribonucleoside-triphosphate reductase (GTP) (flavodoxin)	AC5u0009GL001161
+Ribonucleoside-triphosphate reductase (GTP) (flavodoxin)	AC5u0009GL001905
+Ribonucleoside-triphosphate reductase (UTP) (flavodoxin)	AC5u0009GL001026
+Ribonucleoside-triphosphate reductase (UTP) (flavodoxin)	AC5u0009GL001161
+Ribonucleoside-triphosphate reductase (UTP) (flavodoxin)	AC5u0009GL001905
+Ribose 5-phosphate phosphatase	AC5u0009GL002089
+Ribose 5-phosphate phosphatase	AC5u0009GL000581
+Ribose 5-phosphate phosphatase	AC5u0009GL000621
+Ribose 5-phosphate phosphatase	AC5u0009GL000639
+Ribose 5-phosphate phosphatase	AC5u0009GL002157
+Ribose 5-phosphate phosphatase	AC5u0009GL002175
+Ribose transport via ABC system	AC5u0009GL001971
+S-adenosyl-L-methionine:cobalt-factor-II C20-methyltransferase	AC5u0009GL001889
+S-adenosyl-L-methionine:precorrin-3B C17-methyltransferase	AC5u0009GL001893
+S-adenosyl-L-methionine:precorrin-4 C11 methyltransferase	AC5u0009GL001895
+S-adenosylmethione:2-demethylmenaquinone methyltransferase	AC5u0009GL001463
+S-adenosylmethione:2-demthylmenaquinole methyltransferase (menaquinone 8)	AC5u0009GL001463
+S-adenosylmethione:2-demthylmenaquinone methyltransferase (menaquinone 7)	AC5u0009GL001463
+SUF [4Fe-4S] Reduction	AC5u0009GL001758
+SUF [4Fe-4S] Reduction	AC5u0009GL001762
+Serine O-acetyltransferase	AC5u0009GL001357
+Seryl-tRNA synthetase	AC5u0009GL001193
+Seryl-tRNA synthetase	AC5u0009GL002113
+Succinate dehydrogenase	AC5u0009GL001188
+Succinate dehydrogenase	AC5u0009GL001189
+Succinyldiaminopimelate transaminase	AC5u0009GL000606
+Succinyldiaminopimelate transaminase	AC5u0009GL000780
+Sucrose phosphorylase	AC5u0009GL001434
+Sucrose transport via permease	AC5u0009GL001435
+Sulfate transporter via ABC	AC5u0009GL000834
+Sulfate transporter via ABC	AC5u0009GL001081
+Tetradecanoyl-[acyl-carrier protein]:malonyl-CoA  C-acyltransferase	AC5u0009GL000221
+Tetradecanoyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein]  C-acyltransferase	AC5u0009GL000227
+Tetrahydrofolate aminomethyltransferase	AC5u0009GL000116
+Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming)	AC5u0009GL000674
+Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming)	AC5u0009GL000849
+Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming)	AC5u0009GL001065
+Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming)	AC5u0009GL001066
+Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming)	AC5u0009GL002122
+Threonine aldolase	AC5u0009GL000116
+Threonine-phosphate decarboxylase (EC 4.1.1.81)	AC5u0009GL001902
+Threonyl-tRNA synthetase	AC5u0009GL000429
+Trehalose-6-phosphate hydrolase	AC5u0009GL001180
+Tryptophan transaminase	AC5u0009GL000055
+Tryptophan transaminase	AC5u0009GL000419
+Tryptophan transaminase	AC5u0009GL001361
+Tryptophan transaminase	AC5u0009GL001591
+Tryptophanyl-tRNA synthetase	AC5u0009GL000601
+Tyrosyl-tRNA synthetase	AC5u0009GL000886
+UDP N acetylglucosamine N acetylmuramyl pentapeptide pyrophosphoryl undecaprenol N acetylglucosamine transferase	AC5u0009GL001334
+UDP N acetylmuramoyl L alanyl D glutamate lysine synthetase alpha glutamate	AC5u0009GL000121
+UDP-N-acetylenolpyruvoylglucosamine reductase	AC5u0009GL000981
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase	AC5u0009GL000102
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase	AC5u0009GL000352
+UDP-N-acetylglucosamine 2-epimerase	AC5u0009GL000746
+UDP-N-acetylglucosamine 2-epimerase	AC5u0009GL001165
+UDP-N-acetylglucosamine diphosphorylase	AC5u0009GL000584
+UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	AC5u0009GL001334
+UDP-N-acetylmuramoyl-L-alanine synthetase	AC5u0009GL000826
+UDP-N-acetylmuramoyl-L-alanine synthetase	AC5u0009GL001089
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase	AC5u0009GL001333
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine synthetase (alpha-glutamate)	AC5u0009GL000365
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-alanyl-D-alanine synthetase (gamma-glutamate)	AC5u0009GL000365
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelate synthetase	AC5u0009GL000121
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelate synthetase	AC5u0009GL000574
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine synthetase	AC5u0009GL000365
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-lactate synthetase	AC5u0009GL000365
+UDPgalactopyranose mutase	AC5u0009GL001427
+UDPgalactopyranose mutase	AC5u0009GL001456
+UDPglucose 4-epimerase	AC5u0009GL000772
+UTP-glucose-1-phosphate uridylyltransferase	AC5u0009GL000794
+Undecaprenyl diphosphate synthase	AC5u0009GL000033
+Undecaprenyl diphosphate synthase	AC5u0009GL000197
+Undecaprenyl diphosphate synthase	AC5u0009GL002178
+Undecaprenyl-phosphate glucose phosphotransferase	AC5u0009GL001150
+Undecaprenyl-phosphate glucose phosphotransferase	AC5u0009GL001448
+Undecaprenyl-phosphate glucose phosphotransferase	AC5u0009GL001797
+Valyl-tRNA synthetase	AC5u0009GL000681
+XTP/dITP diphosphohydrolase	AC5u0009GL000848
+XTP/dITP diphosphohydrolase	AC5u0009GL001067
+XTP/dITP diphosphohydrolase	AC5u0009GL000642
+XTP/dITP diphosphohydrolase	AC5u0009GL002154
+a-galactosidase (melibiose)	AC5u0009GL000933
+a-galactosidase (melibiose)	AC5u0009GL001744
+acetaldehyde dehydrogenase (acetylating)	AC5u0009GL000754
+acetate kinase	AC5u0009GL000624
+acetate kinase	AC5u0009GL001911
+acetate kinase	AC5u0009GL002172
+acetoin dehydrogenase	AC5u0009GL000322
+acetolactate decarboxylase	AC5u0009GL000906
+acetolactate synthase (Also catalyzes ACHBS)	AC5u0009GL000907
+acetyl-CoA C-acetyltransferase	AC5u0009GL000410
+acetyl-CoA carboxylase	AC5u0009GL000222
+acetyl-CoA carboxylase	AC5u0009GL000223
+acetyl-CoA carboxylase	AC5u0009GL000224
+acetyl-CoA carboxylase	AC5u0009GL000226
+acetyl-CoA carboxylase	AC5u0009GL001601
+acetyl-CoA:D-glucosamine-6-phosphate N-acetyltransferase	AC5u0009GL000584
+acetyl-diaminopimelate deacetylase	AC5u0009GL001358
+acetyldiaminopimelate transaminase	AC5u0009GL000055
+acetyldiaminopimelate transaminase	AC5u0009GL000419
+acetyldiaminopimelate transaminase	AC5u0009GL001361
+acetyldiaminopimelate transaminase	AC5u0009GL001591
+acetylornithine transaminase	AC5u0009GL000615
+acetylornithine transaminase	AC5u0009GL000799
+acyl-carrier protein synthase	AC5u0009GL000373
+acylphosphatase	AC5u0009GL000078
+adenine phosphoribosyltransferase	AC5u0009GL000386
+adenine phosphoribosyltransferase	AC5u0009GL001821
+adenosylhomocysteine nucleosidase	AC5u0009GL001346
+adenylate kinase	AC5u0009GL000309
+adenylosuccinate lyase	AC5u0009GL000898
+adenylosuccinate synthetase	AC5u0009GL000394
+alanine racemase	AC5u0009GL000374
+alcohol dehydrogenase (D-glyceraldehyde to glycerol, NADP)	AC5u0009GL000399
+alcohol dehydrogenase (L-glyceraldehyde to glycerol, NADP)	AC5u0009GL000399
+alcohol dehydrogenase (ethanol: NAD)	AC5u0009GL000754
+alcohol dehydrogenase (ethanol: NAD)	AC5u0009GL000790
+alcohol dehydrogenase (ethanol: NAD)	AC5u0009GL001289
+alcohol dehydrogenase (ethanol: NAD)	AC5u0009GL001680
+alcohol dehydrogenase (ethanol: NAD)	AC5u0009GL001858
+alcohol dehydrogenase (glycerol)	AC5u0009GL000790
+alcohol dehydrogenase (propanol)	AC5u0009GL001517
+alcohol dehydrogenase (propanol)	AC5u0009GL001912
+aldehyde dehydrogenase	AC5u0009GL000754
+aldehyde dehydrogenase	AC5u0009GL001913
+aldehyde dehydrogenase (D-glyceraldehyde, NAD)	AC5u0009GL000754
+aldehyde dehydrogenase (acetaldehyde, NAD)	AC5u0009GL000754
+aldose 1-epimerase	AC5u0009GL001430
+aldose reductase (acetol)	AC5u0009GL001480
+aldose reductase (methylglyoxal)	AC5u0009GL001480
+alkaline phosphatase	AC5u0009GL000964
+alkaline phosphatase	AC5u0009GL001481
+alkaline phosphatase	AC5u0009GL002025
+alkaline phosphatase	AC5u0009GL000020
+alpha-glucosidase	AC5u0009GL000274
+alpha-glucoside glucohydrolase	AC5u0009GL000274
+apolipoprotein N-acyl transferase	AC5u0009GL001357
+arabinose reductase	AC5u0009GL000399
+arginine deiminase	AC5u0009GL000127
+argininosuccinate lyase	AC5u0009GL001603
+argininosuccinate synthase	AC5u0009GL001604
+aromatic amino acid aminotransferase - phenylalanine	AC5u0009GL000055
+aromatic amino acid aminotransferase - phenylalanine	AC5u0009GL000419
+aromatic amino acid aminotransferase - phenylalanine	AC5u0009GL001361
+aromatic amino acid aminotransferase - phenylalanine	AC5u0009GL001591
+aromatic amino acid aminotransferase - tryptophan	AC5u0009GL000055
+aromatic amino acid aminotransferase - tryptophan	AC5u0009GL000419
+aromatic amino acid aminotransferase - tryptophan	AC5u0009GL001361
+aromatic amino acid aminotransferase - tryptophan	AC5u0009GL001591
+aromatic amino acid aminotransferase - tryptophan	AC5u0009GL001956
+aromatic amino acid aminotransferase - tyrosine	AC5u0009GL000055
+aromatic amino acid aminotransferase - tyrosine	AC5u0009GL000419
+aromatic amino acid aminotransferase - tyrosine	AC5u0009GL001361
+aromatic amino acid aminotransferase - tyrosine	AC5u0009GL001591
+aryl-alcohol dehydrogenase	AC5u0009GL001122
+aryl-alcohol dehydrogenase	AC5u0009GL002010
+asparagine synthase (glutamine-hydrolysing)	AC5u0009GL000573
+asparagine synthetase	AC5u0009GL000452
+aspartase racemase	AC5u0009GL000716
+aspartate carbamoyltransferase	AC5u0009GL001497
+aspartate kinase	AC5u0009GL001355
+aspartate transaminase	AC5u0009GL000055
+aspartate transaminase	AC5u0009GL000419
+aspartate transaminase	AC5u0009GL000780
+aspartate transaminase	AC5u0009GL001361
+aspartate transaminase	AC5u0009GL001591
+aspartate transaminase	AC5u0009GL001902
+aspartate-semialdehyde dehydrogenase	AC5u0009GL001362
+b-phosphoglucomutase	AC5u0009GL000407
+beta-galactosidase	AC5u0009GL000722
+beta-galactosidase	AC5u0009GL000721
+beta-ketoacyl-ACP synthase III	AC5u0009GL000231
+betaine (glycine betaine) transport in/out via proton symport	AC5u0009GL000918
+bifunctional oligoribonuclease and PAP phosphatase NrnA	AC5u0009GL000653
+bis(5'-nucleosyl)-tetraphosphatase	AC5u0009GL001465
+carbamoyl-phosphate synthase (glutamine-hydrolysing)	AC5u0009GL001182
+carbamoyl-phosphate synthase (glutamine-hydrolysing)	AC5u0009GL001183
+carbamoyl-phosphate synthase (glutamine-hydrolysing)	AC5u0009GL001529
+carbamoyl-phosphate synthase (glutamine-hydrolysing)	AC5u0009GL001530
+choline transport in/out via proton symport	AC5u0009GL000918
+choline transport via ABC system	AC5u0009GL000914
+choline transport via ABC system	AC5u0009GL000915
+choline transport via ABC system	AC5u0009GL000916
+choline transport via ABC system	AC5u0009GL002083
+choloylglycine hydrolase	AC5u0009GL000416
+cob(I)alamin adenosyltransferase	AC5u0009GL001903
+cob(I)alamin adenosyltransferase	AC5u0009GL001915
+cobalt transport in/out via permease (no H+)	AC5u0009GL001488
+cobalt-precorrin 5A hydrolase	AC5u0009GL001894
+cobalt-precorrin-5B (C1)-methyltransferase	AC5u0009GL001898
+cobalt-precorrin-6B (C15)-methyltransferase / cobalt-precorrin-7 (C5)-methyltransferase	AC5u0009GL001896
+cobalt-precorrin-6B (C15)-methyltransferase / cobalt-precorrin-7 (C5)-methyltransferase	AC5u0009GL001897
+cyclic pyranopterin monophosphate synthase	AC5u0009GL001950
+cyclomaltodextrinase / maltogenic alpha-amylase / neopullulanase	AC5u0009GL002111
+cyclopropane fatty acid synthase (n18:0)	AC5u0009GL000910
+cystathionine beta-lyase	AC5u0009GL000726
+cystathionine beta-lyase	AC5u0009GL000727
+cystathionine g-lyase	AC5u0009GL000726
+cystathionine gamma/beta-lyase	AC5u0009GL000726
+cysteine synthase	AC5u0009GL001444
+cysteine synthase	AC5u0009GL002043
+cytidine deaminase	AC5u0009GL001387
+cytidine kinase (ATP)	AC5u0009GL000071
+cytidine kinase (GTP)	AC5u0009GL000071
+cytidine kinase (ITP)	AC5u0009GL000071
+cytidylate kinase (CMP)	AC5u0009GL001574
+cytidylate kinase (dCMP)	AC5u0009GL001574
+dTDP-4-dehydrorhamnose 3,5-epimerase	AC5u0009GL001416
+dTDP-4-dehydrorhamnose reductase	AC5u0009GL001414
+dTDPglucose 4,6-dehydratase	AC5u0009GL001415
+dTMP kinase	AC5u0009GL000763
+dUTP diphosphatase	AC5u0009GL000733
+deoxyadenosine kinase	AC5u0009GL001054
+deoxyadenosine kinase	AC5u0009GL001221
+deoxycytidine deaminase	AC5u0009GL001387
+deoxyguanosine kinase	AC5u0009GL001054
+deoxyguanosine kinase	AC5u0009GL001221
+deoxyinosine kinase	AC5u0009GL001054
+deoxyinosine kinase	AC5u0009GL001221
+deoxyribose transport in via proton symporter	AC5u0009GL000984
+deoxyribose-phosphate aldolase	AC5u0009GL000557
+deoxyribose-phosphate aldolase	AC5u0009GL001508
+deoxyuridine kinase (ATP:Deoxyuridine)	AC5u0009GL000120
+dephospho-CoA kinase	AC5u0009GL000820
+dephospho-CoA kinase	AC5u0009GL001095
+diaminohydroxyphosphoribosylaminopyrimidine deaminase	AC5u0009GL001777
+diaminopimelate decarboxylase	AC5u0009GL001356
+diaminopimelate epimerase	AC5u0009GL001354
+dihydoorotic acid dehydrogenase (NAD)	AC5u0009GL001495
+dihydrodipicolinate reductase (NADPH)	AC5u0009GL001360
+dihydrodipicolinate synthase	AC5u0009GL001359
+dihydrofolate reductase	AC5u0009GL001566
+dihydrofolate synthase	AC5u0009GL000674
+dihydrofolate synthase	AC5u0009GL000849
+dihydrofolate synthase	AC5u0009GL001065
+dihydrofolate synthase	AC5u0009GL001066
+dihydrofolate synthase	AC5u0009GL002122
+dihydrolipoamide dehydrogenase	AC5u0009GL001377
+dihydroneopterin aldolase	AC5u0009GL001062
+dihydroorotase	AC5u0009GL001496
+dihydropteroate synthase	AC5u0009GL000847
+dihydropteroate synthase	AC5u0009GL001068
+dihydrouracil dehydrogenase (NADP)	AC5u0009GL001033
+dihydrouracil dehydrogenase (NADP)	AC5u0009GL001034
+dimethylallyltranstransferase	AC5u0009GL000033
+dimethylallyltranstransferase	AC5u0009GL002178
+diphosphomevalonate decarboxylase	AC5u0009GL001738
+enolase	AC5u0009GL001872
+exopolyphosphatase	AC5u0009GL000600
+exopolyphosphatase	AC5u0009GL000769
+exopolyphosphatase	AC5u0009GL000771
+farnesyltranstransferase	AC5u0009GL000033
+farnesyltranstransferase	AC5u0009GL002178
+fatty-acyl-ACP hydrolase	AC5u0009GL000768
+flavin reductase	AC5u0009GL001307
+flavin reductase	AC5u0009GL001308
+formate-tetrahydrofolate ligase	AC5u0009GL000908
+formylmethionine deformylase	AC5u0009GL000080
+formylmethionine deformylase	AC5u0009GL001373
+fructokinase	AC5u0009GL001746
+fructose-bisphosphate aldolase	AC5u0009GL000360
+fumarase	AC5u0009GL001118
+fumarate reductase	AC5u0009GL001117
+galactokinase	AC5u0009GL002028
+galactose transport in/out via proton symport	AC5u0009GL002019
+galactose-1-phosphate uridylyltransferase	AC5u0009GL002027
+gammaglutamyl-gamma-aminobutyrate hydrolase	AC5u0009GL000400
+geranyltranstransferase	AC5u0009GL000033
+geranyltranstransferase	AC5u0009GL002178
+glucokinase	AC5u0009GL000061
+gluconokinase	AC5u0009GL001543
+gluconokinase	AC5u0009GL001789
+gluconokinase	AC5u0009GL001859
+glucosamine-1-phosphate N-acetyltransferase	AC5u0009GL000584
+glucosamine-6-phosphate deaminase	AC5u0009GL001275
+glucose 6-phosphate dehydrogenase	AC5u0009GL002016
+glucose-1-phosphate phosphodismutase	AC5u0009GL000407
+glucose-1-phosphate thymidylyltransferase	AC5u0009GL001424
+glucose-1-phosphate thymidylyltransferase	AC5u0009GL001417
+glucose-6-phosphate isomerase	AC5u0009GL000149
+glutamate 5-kinase	AC5u0009GL000778
+glutamate decarboxylase	AC5u0009GL000688
+glutamate decarboxylase	AC5u0009GL000689
+glutamate racemase	AC5u0009GL000643
+glutamate racemase	AC5u0009GL002153
+glutamate-1-semialdehyde aminotransferase	AC5u0009GL001879
+glutamate-5-semialdehyde dehydrogenase	AC5u0009GL000777
+glutamate-cysteine ligase	AC5u0009GL000401
+glutamate-cysteine ligase	AC5u0009GL001171
+glutaminase	AC5u0009GL000367
+glutamine phosphoribosyldiphosphate amidotransferase	AC5u0009GL000893
+glutamine synthetase	AC5u0009GL000057
+glutamine-fructose-6-phosphate transaminase	AC5u0009GL000988
+glutamyl-tRNA reductase	AC5u0009GL001882
+glutamyl-tRNA(Gln):L-glutamine amido-ligase (ADP-forming)	AC5u0009GL000329
+glutamyl-tRNA(Gln):L-glutamine amido-ligase (ADP-forming)	AC5u0009GL000330
+glutamyl-tRNA(Gln):L-glutamine amido-ligase (ADP-forming)	AC5u0009GL000331
+glutathione synthase	AC5u0009GL000401
+glutathione-disulfide reductase	AC5u0009GL000277
+glyceraldehyde-3-phosphate dehydrogenase (NAD)	AC5u0009GL001869
+glycerate 2-kinase	AC5u0009GL001365
+glycerate kinase	AC5u0009GL001365
+glycerol dehydratase	AC5u0009GL001922
+glycerol dehydratase	AC5u0009GL001923
+glycerol dehydratase	AC5u0009GL001924
+glycerol dehydratase	AC5u0009GL001925
+glycerol dehydratase	AC5u0009GL001926
+glycerol kinase	AC5u0009GL001478
+glycerol transport in/out via diffusion reversible	AC5u0009GL001930
+glycerol-3-phosphate acyltransferase PlsX	AC5u0009GL000013
+glycerol-3-phosphate acyltransferase PlsX	AC5u0009GL001555
+glycerol-3-phosphate cytidylyltransferase	AC5u0009GL000196
+glycerol-3-phosphate dehydrogenase (NAD)	AC5u0009GL000793
+glycine betaine transport via ABC system	AC5u0009GL000914
+glycine betaine transport via ABC system	AC5u0009GL000915
+glycine betaine transport via ABC system	AC5u0009GL000916
+glycine betaine transport via ABC system	AC5u0009GL002083
+glycine hydroxymethyltransferase	AC5u0009GL000116
+glycine transport in/out via proton symport	AC5u0009GL001042
+glycine transport in/out via proton symport	AC5u0009GL001664
+guanine phosphoribosyltransferase	AC5u0009GL000386
+guanine phosphoribosyltransferase	AC5u0009GL001821
+guanine transport in via proton symport	AC5u0009GL000376
+guanine transport in via proton symport	AC5u0009GL000690
+guanine transport in via proton symport	AC5u0009GL000691
+guanosine 3'-diphosphate 5'-triphosphate 5'-phosphohydrolase	AC5u0009GL000600
+guanosine 3'-diphosphate 5'-triphosphate 5'-phosphohydrolase	AC5u0009GL000769
+guanosine 3'-diphosphate 5'-triphosphate 5'-phosphohydrolase	AC5u0009GL000771
+guanosine-3',5'-bis(diphosphate) 3'-diphosphatase	AC5u0009GL000169
+guanylate kinase (GMP:ATP)	AC5u0009GL000028
+histidinol-phosphatase (PHP family)	AC5u0009GL000423
+homoserine dehydrogenase (NADPH)	AC5u0009GL000902
+hydrogen selenide:NADP+ oxidoreductase	AC5u0009GL000798
+hydrogen selenide:NADP+ oxidoreductase	AC5u0009GL000835
+hydrogen selenide:NADP+ oxidoreductase	AC5u0009GL001080
+hydrogen selenide:NADP+ oxidoreductase	AC5u0009GL001474
+hydroxyethylthiazole kinase	AC5u0009GL000269
+hydroxymethylbilane synthase	AC5u0009GL001881
+hydroxymethylpyrimidine kinase (ATP)	AC5u0009GL000270
+hydroxymethylpyrimidine kinase (ATP)	AC5u0009GL000843
+hydroxymethylpyrimidine kinase (ATP)	AC5u0009GL001072
+hypothetical enzyme	AC5u0009GL000581
+hypothetical enzyme	AC5u0009GL000992
+hypoxanthine phosphoribosyltransferase (Hypoxanthine)	AC5u0009GL000386
+hypoxanthine phosphoribosyltransferase (Hypoxanthine)	AC5u0009GL001821
+hypoxanthine transport in via proton symport	AC5u0009GL000690
+hypoxanthine transport in via proton symport	AC5u0009GL000691
+inorganic diphosphatase	AC5u0009GL001551
+isocitrate dehydrogenase (NADP)	AC5u0009GL001348
+isopentenyl-diphosphate D-isomerase	AC5u0009GL001740
+lactose transport in/out via proton symport	AC5u0009GL002019
+levansucrase	AC5u0009GL000236
+lysine decarboxylase	AC5u0009GL001169
+lysylphosphatidyl-glycerol synthetase	AC5u0009GL001244
+magnesium transport in/out via permease (no H+)	AC5u0009GL001488
+malate dehydrogenase	AC5u0009GL001170
+malolactic enzyme	AC5u0009GL001119
+malolactic enzyme	AC5u0009GL001113
+maltose phosphorylase	AC5u0009GL000408
+maltose phosphorylase	AC5u0009GL001824
+maltose transport in/out via proton symport	AC5u0009GL000409
+maltose transport in/out via proton symport	AC5u0009GL001181
+maltose transport in/out via proton symport	AC5u0009GL001184
+maltose transport in/out via proton symport	AC5u0009GL002112
+manganese transport in/out via proton symport	AC5u0009GL001302
+manganese transport in/out via proton symport	AC5u0009GL001853
+manganese transport via ABC system	AC5u0009GL000586
+manganese transport via ABC system	AC5u0009GL000587
+manganese transport via ABC system	AC5u0009GL000588
+mannitol-1-phosphate 5-dehydrogenase	AC5u0009GL002062
+mannose-6-phosphate isomerase	AC5u0009GL002012
+melibiose transport in via symport	AC5u0009GL002019
+menaquinol oxidase (7:1 protons)	AC5u0009GL000676
+menaquinol oxidase (7:1 protons)	AC5u0009GL000677
+menaquinol oxidase (7:1 protons)	AC5u0009GL000678
+menaquinol oxidase (7:1 protons)	AC5u0009GL000679
+menaquinol oxidase (7:1 protons)	AC5u0009GL000680
+methaneselenol:NADP+ oxidoreductase	AC5u0009GL000798
+methaneselenol:NADP+ oxidoreductase	AC5u0009GL000835
+methaneselenol:NADP+ oxidoreductase	AC5u0009GL001080
+methaneselenol:NADP+ oxidoreductase	AC5u0009GL001474
+methenyltetrahydrofolate cyclohydrolase	AC5u0009GL000036
+methionine adenosyltransferase	AC5u0009GL001046
+methylenetetrahydrofolate dehydrogenase (NADP)	AC5u0009GL000036
+methylthioadenosine nucleosidase	AC5u0009GL001346
+mevalonate kinase	AC5u0009GL001737
+mevalonate kinase (ctp)	AC5u0009GL001737
+mevalonate kinase (gtp)	AC5u0009GL001737
+mevalonate kinase (utp)	AC5u0009GL001737
+molybdopterin molybdotransferase	AC5u0009GL000251
+molybdopterin synthase catalytic subunit	AC5u0009GL000262
+molybdopterin-guanine dinucleotide biosynthesis protein A	AC5u0009GL000253
+myo-inositol 1-phosphatase	AC5u0009GL001052
+myo-inositol 1-phosphatase	AC5u0009GL001955
+myo-inositol 1-phosphatase	AC5u0009GL001379
+naphthoate synthase	AC5u0009GL001767
+nicotinamidase, reversible	AC5u0009GL000346
+nicotinamide ribonucleotide phosphohydrolase	AC5u0009GL001278
+nicotinamide-D-ribonucleotide amidohydrolase	AC5u0009GL000662
+nicotinamide-D-ribonucleotide amidohydrolase	AC5u0009GL002134
+nicotinate D-ribonucleotide phosphohydrolase	AC5u0009GL001278
+nicotinate-nucleotide adenylyltransferase	AC5u0009GL000090
+nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase	AC5u0009GL001874
+nitrate reductase NADH	AC5u0009GL000245
+nitrate reductase NADH	AC5u0009GL000246
+nitrate reductase NADH	AC5u0009GL000247
+nitrate reductase NADH	AC5u0009GL000248
+nitrate reductase NADPH	AC5u0009GL000245
+nitrate reductase NADPH	AC5u0009GL000246
+nitrate reductase NADPH	AC5u0009GL000247
+nitrate reductase NADPH	AC5u0009GL000248
+nitrite transport out via proton antiport	AC5u0009GL000260
+nucleoside-diphophate kinase (ATP:IDP)	AC5u0009GL000603
+nucleoside-diphosphate kinase (ATP:CDP)	AC5u0009GL000603
+nucleoside-diphosphate kinase (ATP:GDP)	AC5u0009GL000603
+nucleoside-diphosphate kinase (ATP:UDP)	AC5u0009GL000603
+nucleoside-diphosphate kinase (ATP:dADP)	AC5u0009GL000603
+nucleoside-diphosphate kinase (ATP:dCDP)	AC5u0009GL000603
+nucleoside-diphosphate kinase (ATP:dGDP)	AC5u0009GL000603
+nucleoside-diphosphate kinase (ATP:dTDP)	AC5u0009GL000603
+nucleoside-diphosphate kinase (ATP:dUDP)	AC5u0009GL000603
+o-succinylbenzoate-CoA ligase	AC5u0009GL001766
+ornithine carbamoyltransferase	AC5u0009GL000144
+ornithine transacetylase	AC5u0009GL000606
+ornithine transacetylase	AC5u0009GL001879
+ornithine transport in via proton symport	AC5u0009GL000124
+orotate phosphoribosyltransferase	AC5u0009GL001493
+orotidine-5'-phosphate decarboxylase	AC5u0009GL001494
+oxalyl-CoA decarboxylase	AC5u0009GL000698
+oxalyl-CoA decarboxylase	AC5u0009GL000699
+pantetheine-phosphate adenylyltransferase	AC5u0009GL001384
+pantothenate kinase	AC5u0009GL000965
+peptidoglycan glycosyltransferase	AC5u0009GL000841
+peptidoglycan glycosyltransferase	AC5u0009GL001074
+peptidoglycan glycosyltransferase	AC5u0009GL001331
+peptidoglycan glycosyltransferase	AC5u0009GL001732
+phosphate propanoyltransferase	AC5u0009GL001918
+phosphate transport via ABC system	AC5u0009GL001313
+phosphate transport via ABC system	AC5u0009GL001314
+phosphate transport via ABC system	AC5u0009GL001315
+phosphate transport via ABC system	AC5u0009GL001316
+phosphate transport via ABC system	AC5u0009GL001317
+phosphatidic acid phosphatase	AC5u0009GL000931
+phosphatidic acid phosphatase	AC5u0009GL001224
+phospho-N-acetylmuramoyl-pentapeptide-transferase (meso-2,6-diaminopimelate)	AC5u0009GL001332
+phosphoenolpyruvate carboxykinase	AC5u0009GL001030
+phosphoglucomutase	AC5u0009GL000802
+phosphogluconate dehydrogenase	AC5u0009GL002017
+phosphoglucosamine mutase	AC5u0009GL000987
+phosphoglycerate kinase	AC5u0009GL001870
+phosphoglycerate mutase	AC5u0009GL000361
+phosphoglycerate mutase	AC5u0009GL000724
+phosphoglycerate mutase	AC5u0009GL000888
+phosphoglycerate mutase	AC5u0009GL000959
+phosphoglycerate mutase	AC5u0009GL001350
+phosphoglycerate mutase	AC5u0009GL001483
+phosphoglycerate mutase	AC5u0009GL001908
+phosphoglycolate phosphatase	AC5u0009GL002089
+phosphoketolase	AC5u0009GL001624
+phosphomannomutase	AC5u0009GL000802
+phosphomethylpyrimidine kinase	AC5u0009GL000270
+phosphomethylpyrimidine kinase	AC5u0009GL000843
+phosphomethylpyrimidine kinase	AC5u0009GL001072
+phosphomevalonate kinase	AC5u0009GL001739
+phosphopantothenate-cysteine ligase	AC5u0009GL000026
+phosphopantothenoylcysteine decarboxylase	AC5u0009GL000026
+phosphopentomutase	AC5u0009GL000923
+phosphopentomutase	AC5u0009GL001507
+phosphopentomutase (deoxyribose)	AC5u0009GL000923
+phosphopentomutase (deoxyribose)	AC5u0009GL001507
+phosphoribosylaminoimidazole carboxylase	AC5u0009GL000325
+phosphoribosylaminoimidazole carboxylase	AC5u0009GL000899
+phosphoribosylaminoimidazole carboxylase	AC5u0009GL000900
+phosphoribosylaminoimidazole synthetase	AC5u0009GL000892
+phosphoribosylaminoimidazolecarboxamide formyltransferase	AC5u0009GL000890
+phosphoribosylaminoimidazolesuccinocarboxamide synthase	AC5u0009GL000897
+phosphoribosylformylglycinamidine synthase	AC5u0009GL000894
+phosphoribosylformylglycinamidine synthase	AC5u0009GL000895
+phosphoribosylglycinamide formyltransferase	AC5u0009GL000891
+phosphoribosylglycinamide synthetase	AC5u0009GL000889
+phosphoribosylpyrophosphate synthetase	AC5u0009GL000583
+phosphoribosylpyrophosphate synthetase	AC5u0009GL001353
+phosphotransacetylase	AC5u0009GL000976
+polyphosphate kinase	AC5u0009GL000770
+porphobilinogen synthase	AC5u0009GL001880
+potassium transport via ABC system	AC5u0009GL001304
+potassium transport via ABC system	AC5u0009GL001305
+precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase	AC5u0009GL001883
+propanal dehydrogenase (CoA-propanoylating)	AC5u0009GL001913
+propanediol dehydratase	AC5u0009GL001923
+propanediol dehydratase	AC5u0009GL001924
+propanediol dehydratase	AC5u0009GL001925
+propionate kinase	AC5u0009GL000624
+propionate kinase	AC5u0009GL001911
+propionate kinase	AC5u0009GL002172
+purine nucleosidase (adenosine)	AC5u0009GL001662
+purine nucleosidase (adenosine)	AC5u0009GL001778
+purine nucleosidase (adenosine)	AC5u0009GL002084
+purine nucleosidase (guanosine)	AC5u0009GL001662
+purine nucleosidase (guanosine)	AC5u0009GL001778
+purine nucleosidase (guanosine)	AC5u0009GL002084
+purine nucleosidase (inosine)	AC5u0009GL001662
+purine nucleosidase (inosine)	AC5u0009GL001778
+purine nucleosidase (inosine)	AC5u0009GL002084
+purine nucleosidase (xanthosine)	AC5u0009GL001662
+purine nucleosidase (xanthosine)	AC5u0009GL001778
+purine nucleosidase (xanthosine)	AC5u0009GL002084
+purine-nucleoside phosphatase (deoxyuridine)	AC5u0009GL001505
+purine-nucleoside phosphorylase (Adenosine)	AC5u0009GL001505
+purine-nucleoside phosphorylase (Deoxyadenosine)	AC5u0009GL001505
+purine-nucleoside phosphorylase (Deoxyguanosine)	AC5u0009GL001505
+purine-nucleoside phosphorylase (Deoxyinosine)	AC5u0009GL001505
+purine-nucleoside phosphorylase (Guanosine)	AC5u0009GL001505
+purine-nucleoside phosphorylase (Inosine)	AC5u0009GL001505
+purine-nucleoside phosphorylase (Xanthosine)	AC5u0009GL001505
+putrescine transport via ABC system	AC5u0009GL000915
+putrescine transport via ABC system	AC5u0009GL002080
+putrescine transport via ABC system	AC5u0009GL002081
+putrescine transport via ABC system	AC5u0009GL002082
+putrescine transport via ABC system	AC5u0009GL002083
+pyridoxal kinase (Pyridoxal)	AC5u0009GL000270
+pyridoxal kinase (Pyridoxal)	AC5u0009GL000843
+pyridoxal kinase (Pyridoxal)	AC5u0009GL001072
+pyridoxal kinase (Pyridoxamine)	AC5u0009GL000270
+pyridoxal kinase (Pyridoxamine)	AC5u0009GL000843
+pyridoxal kinase (Pyridoxamine)	AC5u0009GL001072
+pyrimidine nucleosidase (uridine)	AC5u0009GL001662
+pyrimidine nucleosidase (uridine)	AC5u0009GL001778
+pyrimidine-nucleoside phosphorylase (cytosine)	AC5u0009GL001506
+pyrimidine-nucleoside phosphorylase (thymine)	AC5u0009GL001506
+pyrimidine-nucleoside phosphorylase (uracil)	AC5u0009GL001506
+pyrroline-5-carboxylate reductase	AC5u0009GL000776
+pyrroline-5-carboxylate reductase	AC5u0009GL001520
+pyruvate dehydrogenase	AC5u0009GL001374
+pyruvate dehydrogenase	AC5u0009GL001375
+pyruvate dehydrogenase	AC5u0009GL001376
+pyruvate dehydrogenase	AC5u0009GL001377
+pyruvate kinase	AC5u0009GL001585
+pyruvate kinase	AC5u0009GL000357
+quinate dehydrogenase (pyrroloquinoline-quinone)	AC5u0009GL000942
+riboflavin kinase	AC5u0009GL000185
+riboflavin synthase	AC5u0009GL001776
+riboflavin synthase	AC5u0009GL001774
+ribokinase	AC5u0009GL000982
+ribokinase	AC5u0009GL001057
+ribonucleoside-diphosphate reductase (ADP)	AC5u0009GL000645
+ribonucleoside-diphosphate reductase (ADP)	AC5u0009GL000755
+ribonucleoside-diphosphate reductase (ADP)	AC5u0009GL000756
+ribonucleoside-diphosphate reductase (ADP)	AC5u0009GL000828
+ribonucleoside-diphosphate reductase (ADP)	AC5u0009GL001087
+ribonucleoside-diphosphate reductase (ADP)	AC5u0009GL001491
+ribonucleoside-diphosphate reductase (ADP)	AC5u0009GL002151
+ribonucleoside-diphosphate reductase (CDP)	AC5u0009GL000755
+ribonucleoside-diphosphate reductase (CDP)	AC5u0009GL000756
+ribonucleoside-diphosphate reductase (GDP)	AC5u0009GL000755
+ribonucleoside-diphosphate reductase (GDP)	AC5u0009GL000756
+ribonucleoside-diphosphate reductase (UDP)	AC5u0009GL000645
+ribonucleoside-diphosphate reductase (UDP)	AC5u0009GL000755
+ribonucleoside-diphosphate reductase (UDP)	AC5u0009GL000756
+ribonucleoside-diphosphate reductase (UDP)	AC5u0009GL000828
+ribonucleoside-diphosphate reductase (UDP)	AC5u0009GL001087
+ribonucleoside-diphosphate reductase (UDP)	AC5u0009GL001491
+ribonucleoside-diphosphate reductase (UDP)	AC5u0009GL002151
+ribonucleoside-triphosphate reductase (ATP)	AC5u0009GL001026
+ribonucleoside-triphosphate reductase (ATP)	AC5u0009GL001728
+ribonucleoside-triphosphate reductase (ATP)	AC5u0009GL001940
+ribonucleoside-triphosphate reductase (CTP)	AC5u0009GL001026
+ribonucleoside-triphosphate reductase (CTP)	AC5u0009GL001728
+ribonucleoside-triphosphate reductase (CTP)	AC5u0009GL001940
+ribonucleoside-triphosphate reductase (GTP)	AC5u0009GL001026
+ribonucleoside-triphosphate reductase (GTP)	AC5u0009GL001728
+ribonucleoside-triphosphate reductase (GTP)	AC5u0009GL001940
+ribonucleoside-triphosphate reductase (UTP)	AC5u0009GL001026
+ribonucleoside-triphosphate reductase (UTP)	AC5u0009GL001728
+ribonucleoside-triphosphate reductase (UTP)	AC5u0009GL001940
+ribose-5-phosphate isomerase	AC5u0009GL000731
+ribosylhomocysteinase	AC5u0009GL001392
+ribulose 5-phosphate 3-epimerase	AC5u0009GL000019
+selenocysteine lyase	AC5u0009GL000683
+selenocysteine lyase	AC5u0009GL001347
+selenocysteine lyase	AC5u0009GL001760
+sirohydrochlorin cobaltochelatase	AC5u0009GL001890
+sirohydrochlorin dehydrogenase (NAD)	AC5u0009GL001883
+sodium transport in/out via proton antiport (one H+)	AC5u0009GL000605
+sodium transport in/out via proton antiport (one H+)	AC5u0009GL001214
+spermidine transport via ABC system	AC5u0009GL000915
+spermidine transport via ABC system	AC5u0009GL002080
+spermidine transport via ABC system	AC5u0009GL002081
+spermidine transport via ABC system	AC5u0009GL002082
+spermidine transport via ABC system	AC5u0009GL002083
+succinate-semialdehyde dehydrogenase (NAD)	AC5u0009GL001521
+succinate-semialdehyde dehydrogenase (NADP)	AC5u0009GL001521
+succinyl-diaminopimelate desuccinylase	AC5u0009GL000615
+succinyl-diaminopimelate desuccinylase	AC5u0009GL000799
+succinyl-diaminopimelate desuccinylase	AC5u0009GL001051
+succinyl-diaminopimelate desuccinylase	AC5u0009GL001436
+sulfite reductase (Flavodoxin)	AC5u0009GL000884
+tRNA dimethylallyltransferase	AC5u0009GL000058
+tetrahydropicolinate succinylase	AC5u0009GL001357
+thiamine diphosphokinase	AC5u0009GL000018
+thiamine-phosphate diphosphorylase	AC5u0009GL000271
+thiazole phosphate synthesis	AC5u0009GL001245
+thioredoxin reductase (NADPH)	AC5u0009GL000798
+thioredoxin reductase (NADPH)	AC5u0009GL000835
+thioredoxin reductase (NADPH)	AC5u0009GL001080
+thioredoxin reductase (NADPH)	AC5u0009GL001474
+thymidine kinase (ATP:thymidine)	AC5u0009GL000120
+thymidine kinase (GTP:Thymidine)	AC5u0009GL000120
+thymidine transport in via proton symport	AC5u0009GL001663
+thymidylate synthase	AC5u0009GL001567
+trans-hexaprenyltranstransferase	AC5u0009GL002178
+trehalose transport in/out via proton symport	AC5u0009GL000409
+trehalose transport in/out via proton symport	AC5u0009GL001181
+trehalose transport in/out via proton symport	AC5u0009GL001184
+trehalose transport in/out via proton symport	AC5u0009GL002112
+triose-phosphate isomerase	AC5u0009GL000359
+triose-phosphate isomerase	AC5u0009GL000936
+triose-phosphate isomerase	AC5u0009GL001871
+undecaprenol kinase	AC5u0009GL001598
+undecaprenyl-diphosphatase	AC5u0009GL000275
+undecaprenyl-diphosphatase	AC5u0009GL001962
+undecaprenyl-diphosphate synthase	AC5u0009GL000197
+uracil phosphoribosyltransferase	AC5u0009GL000115
+uracil transport in via proton symport	AC5u0009GL000111
+uridine kinase (ATP:Uridine)	AC5u0009GL000071
+uridine kinase (GTP:Uridine)	AC5u0009GL000071
+uridine kinase (ITP:Uridine)	AC5u0009GL000071
+uridylate kinase (UMP)	AC5u0009GL001574
+uridylate kinase (dUMP)	AC5u0009GL001574
+uridylate kinase (dUMP)	AC5u0009GL000199
+uroporphyrinogen methyltransferase	AC5u0009GL001891
+uroporphyrinogen-III synthase	AC5u0009GL001875
+uroporphyrinogen-III synthase	AC5u0009GL001891
+xanthine phosphoribosyltransferase	AC5u0009GL000324
+xanthine transport in via proton symport	AC5u0009GL001486
+yUMP synthetase	AC5u0009GL000186
+yUMP synthetase	AC5u0009GL000319
+yUMP synthetase	AC5u0009GL001243
+yUMP synthetase	AC5u0009GL001489
+yUMP synthetase	AC5u0009GL001528
+yUMP synthetase	AC5u0009GL001809
