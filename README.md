@@ -14,8 +14,6 @@ Probiotic, _Limosilactobacillus reuteri_, Genome-scale metabolic modeling, Essen
 engineering; **Type of Model:** Reconstruction and refinement; **Taxonomy:** _Limosilactobacillus reuteri_ ; **Metabolic System:** General Metabolism; **Condition:** Synthetic media;
 
 - Reference:
-Raethong N, Wang H, Nielsen J, Vongsangnak W. 2019. Optimizing cultivation of _Cordyceps militaris_ for fast growth and cordycepin overproduction using rational design of synthetic media. Computational and Structural Biotechnology Journal doi:https://doi.org/10.1016/j.csbj.2019.11.003.
-
 Thanawat Namrak, Nachon Raethong, Theeraphol Jatuponwiphat, Sunee Nitisinprasert, Wanwipa Vongsangnak and Massalin Nakphaichit. Probing genome-scale model reveals metabolic capability and essential nutrients for growth of probiotic _Limosilactobacillus reuteri_ KUB-AC5. Biology 2022, 11, x. https://doi.org/10.3390/xxxxx
 
 - Pubmed ID: TBA
